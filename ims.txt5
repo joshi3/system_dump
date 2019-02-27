@@ -1,0 +1,1497 @@
+Binary file ./sbin/charger matches
+./system/etc/permissions/privapp-permissions-org.codeaurora.ims.xml:3:    <privapp-permissions package="org.codeaurora.ims">
+./system/etc/permissions/privapp-permissions-qti.xml:60:    <privapp-permissions package="org.codeaurora.ims">
+./system/etc/permissions/privapp-permissions-google.xml:306:    <privapp-permissions package="com.google.android.ims">
+./system/etc/vintf/compatibility_matrix.device.xml:118:            <instance>qti.ims.connectionmanagerservice</instance>
+./system/etc/vintf/compatibility_matrix.device.xml:420:        <name>vendor.qti.hardware.radio.ims</name>
+./system/etc/vintf/compatibility_matrix.device.xml:568:        <name>vendor.qti.ims.callinfo</name>
+./system/etc/preloaded-classes:2913:android.telephony.ims.aidl.IImsCapabilityCallback
+./system/etc/preloaded-classes:2914:android.telephony.ims.aidl.IImsCapabilityCallback$Stub
+./system/etc/preloaded-classes:2915:android.telephony.ims.aidl.IImsRegistrationCallback
+./system/etc/preloaded-classes:2916:android.telephony.ims.aidl.IImsRegistrationCallback$Stub
+./system/etc/preloaded-classes:2917:android.telephony.ims.feature.ImsFeature$CapabilityCallback
+./system/etc/preloaded-classes:3905:com.android.ims.-$$Lambda$MmTelFeatureConnection$ij8S4RNRiQPHfppwkejp36BG78I
+./system/etc/preloaded-classes:3906:com.android.ims.ImsException
+./system/etc/preloaded-classes:3907:com.android.ims.MmTelFeatureConnection
+./system/etc/preloaded-classes:3908:com.android.ims.MmTelFeatureConnection$1
+./system/etc/preloaded-classes:3909:com.android.ims.MmTelFeatureConnection$CallbackAdapterManager
+./system/etc/preloaded-classes:3910:com.android.ims.MmTelFeatureConnection$CapabilityCallbackManager
+./system/etc/preloaded-classes:3911:com.android.ims.MmTelFeatureConnection$CapabilityCallbackManager$CapabilityCallbackAdapter
+./system/etc/preloaded-classes:3912:com.android.ims.MmTelFeatureConnection$IFeatureUpdate
+./system/etc/preloaded-classes:3913:com.android.ims.MmTelFeatureConnection$ImsRegistrationCallbackAdapter
+./system/etc/preloaded-classes:3914:com.android.ims.MmTelFeatureConnection$ImsRegistrationCallbackAdapter$RegistrationCallbackAdapter
+./system/etc/preloaded-classes:3915:com.android.ims.internal.IImsServiceFeatureCallback
+./system/etc/preloaded-classes:3916:com.android.ims.internal.IImsServiceFeatureCallback$Stub
+./system/etc/selinux/plat_service_contexts:72:ims                                       u:object_r:radio_service:s0
+./system/etc/selinux/plat_service_contexts:200:qti.ims.ext                                    u:object_r:radio_service:s0
+./system/etc/selinux/plat_property_contexts:198:# property related to IMS debugging in moto system.img
+./system/etc/apns-conf.xml:112:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:115:         apn="IMS"
+./system/etc/apns-conf.xml:116:         type="ims"
+./system/etc/apns-conf.xml:715:    <apn carrier="Orange World IMS"
+./system/etc/apns-conf.xml:718:         apn="ims"
+./system/etc/apns-conf.xml:719:         type="ims"
+./system/etc/apns-conf.xml:1179:    <apn carrier="IMS Vodafone"
+./system/etc/apns-conf.xml:1182:         apn="ims"
+./system/etc/apns-conf.xml:1183:         type="ims"
+./system/etc/apns-conf.xml:1397:    <apn carrier="Orange IMS"
+./system/etc/apns-conf.xml:1400:         apn="ims"
+./system/etc/apns-conf.xml:1401:         type="ims"
+./system/etc/apns-conf.xml:2382:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:2385:         apn="ims"
+./system/etc/apns-conf.xml:2386:         type="ims"
+./system/etc/apns-conf.xml:2506:    <apn carrier="IMS Vodafone"
+./system/etc/apns-conf.xml:2509:         apn="ims"
+./system/etc/apns-conf.xml:2510:         type="ims"
+./system/etc/apns-conf.xml:2689:    <apn carrier="Digi IMS"
+./system/etc/apns-conf.xml:2692:         apn="ims"
+./system/etc/apns-conf.xml:2693:         type="ims"
+./system/etc/apns-conf.xml:2730:    <apn carrier="Orange RO IMS"
+./system/etc/apns-conf.xml:2733:         apn="ims"
+./system/etc/apns-conf.xml:2734:         type="ims"
+./system/etc/apns-conf.xml:2862:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:2865:         apn="ims"
+./system/etc/apns-conf.xml:2866:         type="ims"
+./system/etc/apns-conf.xml:2966:    <apn carrier="Orange IMS"
+./system/etc/apns-conf.xml:2969:         apn="ims"
+./system/etc/apns-conf.xml:2970:         type="ims"
+./system/etc/apns-conf.xml:3419:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3422:         apn="ims"
+./system/etc/apns-conf.xml:3423:         type="ims"
+./system/etc/apns-conf.xml:3470:    <apn carrier="3 IMS"
+./system/etc/apns-conf.xml:3473:         apn="ims"
+./system/etc/apns-conf.xml:3474:         type="ims"
+./system/etc/apns-conf.xml:3593:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3596:         apn="ims"
+./system/etc/apns-conf.xml:3597:         type="ims"
+./system/etc/apns-conf.xml:3623:    <apn carrier="IMS iWLAN"
+./system/etc/apns-conf.xml:3653:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3656:         apn="ims"
+./system/etc/apns-conf.xml:3657:         type="ims"
+./system/etc/apns-conf.xml:3681:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3684:         apn="ims"
+./system/etc/apns-conf.xml:3685:         type="ims"
+./system/etc/apns-conf.xml:3732:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3735:         apn="ims"
+./system/etc/apns-conf.xml:3736:         type="ims"
+./system/etc/apns-conf.xml:3740:    <apn carrier="IMS iWLAN"
+./system/etc/apns-conf.xml:3749:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3752:         apn="ims"
+./system/etc/apns-conf.xml:3753:         type="ims"
+./system/etc/apns-conf.xml:3779:    <apn carrier="IMS iWLAN"
+./system/etc/apns-conf.xml:3945:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:3948:         apn="ims"
+./system/etc/apns-conf.xml:3949:         type="ims"
+./system/etc/apns-conf.xml:3970:    <apn carrier="3 IMS"
+./system/etc/apns-conf.xml:3973:         apn="ims"
+./system/etc/apns-conf.xml:3974:         type="ims"
+./system/etc/apns-conf.xml:4761:    <apn carrier="MTS IMS"
+./system/etc/apns-conf.xml:4764:         apn="ims"
+./system/etc/apns-conf.xml:4765:         type="ims"
+./system/etc/apns-conf.xml:5129:    <apn carrier="Orange PL IMS"
+./system/etc/apns-conf.xml:5132:         apn="ims"
+./system/etc/apns-conf.xml:5133:         type="ims"
+./system/etc/apns-conf.xml:5208:    <apn carrier="PLAY IMS"
+./system/etc/apns-conf.xml:5211:         apn="ims"
+./system/etc/apns-conf.xml:5212:         type="ims"
+./system/etc/apns-conf.xml:5253:    <apn carrier="PLAY IMS"
+./system/etc/apns-conf.xml:5256:         apn="ims"
+./system/etc/apns-conf.xml:5257:         type="ims"
+./system/etc/apns-conf.xml:5274:         apn="ims"
+./system/etc/apns-conf.xml:5275:         type="ims"
+./system/etc/apns-conf.xml:5381:    <apn carrier="Vodafone DE-IMS"
+./system/etc/apns-conf.xml:5384:         apn="ims"
+./system/etc/apns-conf.xml:5385:         type="ims"
+./system/etc/apns-conf.xml:5410:    <apn carrier="O2 DE IMS"
+./system/etc/apns-conf.xml:5413:         apn="ims"
+./system/etc/apns-conf.xml:5414:         type="ims"
+./system/etc/apns-conf.xml:5418:    <apn carrier="o2 IMS"
+./system/etc/apns-conf.xml:5421:         apn="ims"
+./system/etc/apns-conf.xml:5422:         type="ims"
+./system/etc/apns-conf.xml:5456:    <apn carrier="o2 IMS"
+./system/etc/apns-conf.xml:5459:         apn="ims"
+./system/etc/apns-conf.xml:5460:         type="ims"
+./system/etc/apns-conf.xml:5466:    <apn carrier="o2 IMS"
+./system/etc/apns-conf.xml:5469:         apn="ims"
+./system/etc/apns-conf.xml:5470:         type="ims"
+./system/etc/apns-conf.xml:5581:    <apn carrier="O2 DE IMS"
+./system/etc/apns-conf.xml:5584:         apn="ims"
+./system/etc/apns-conf.xml:5585:         type="ims"
+./system/etc/apns-conf.xml:6431:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:6434:         apn="ims"
+./system/etc/apns-conf.xml:6435:         type="ims"
+./system/etc/apns-conf.xml:6580:         type="ims"
+./system/etc/apns-conf.xml:6584:    <apn carrier="LTE IMS"
+./system/etc/apns-conf.xml:6587:         apn="ims"
+./system/etc/apns-conf.xml:6588:         type="ims"
+./system/etc/apns-conf.xml:6592:    <apn carrier="LTE IMS"
+./system/etc/apns-conf.xml:6595:         apn="ims"
+./system/etc/apns-conf.xml:6596:         type="ims"
+./system/etc/apns-conf.xml:6600:    <apn carrier="LTE IMS"
+./system/etc/apns-conf.xml:6603:         apn="ims"
+./system/etc/apns-conf.xml:6604:         type="ims"
+./system/etc/apns-conf.xml:6899:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:6902:         apn="ims"
+./system/etc/apns-conf.xml:6903:         type="ims"
+./system/etc/apns-conf.xml:7048:         type="default,supl,mms,ims,cbs,ia"
+./system/etc/apns-conf.xml:7120:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:7123:         apn="ims"
+./system/etc/apns-conf.xml:7124:         type="ims"
+./system/etc/apns-conf.xml:7147:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7150:         apn="ims"
+./system/etc/apns-conf.xml:7151:         type="ims"
+./system/etc/apns-conf.xml:7200:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:7203:         apn="ims"
+./system/etc/apns-conf.xml:7204:         type="ims"
+./system/etc/apns-conf.xml:7238:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7241:         apn="ims"
+./system/etc/apns-conf.xml:7242:         type="ims"
+./system/etc/apns-conf.xml:7290:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7293:         apn="ims"
+./system/etc/apns-conf.xml:7294:         type="ims"
+./system/etc/apns-conf.xml:7342:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7345:         apn="ims"
+./system/etc/apns-conf.xml:7346:         type="ims"
+./system/etc/apns-conf.xml:7393:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7396:         apn="ims"
+./system/etc/apns-conf.xml:7397:         type="ims"
+./system/etc/apns-conf.xml:7445:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7448:         apn="ims"
+./system/etc/apns-conf.xml:7449:         type="ims"
+./system/etc/apns-conf.xml:7497:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7500:         apn="ims"
+./system/etc/apns-conf.xml:7501:         type="ims"
+./system/etc/apns-conf.xml:7685:         apn="ims"
+./system/etc/apns-conf.xml:7686:         type="ims"
+./system/etc/apns-conf.xml:7700:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7703:         apn="ims"
+./system/etc/apns-conf.xml:7704:         type="ims"
+./system/etc/apns-conf.xml:7764:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7767:         apn="ims"
+./system/etc/apns-conf.xml:7768:         type="ims"
+./system/etc/apns-conf.xml:7816:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:7819:         apn="ims"
+./system/etc/apns-conf.xml:7820:         type="ims"
+./system/etc/apns-conf.xml:7846:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:7849:         apn="ims"
+./system/etc/apns-conf.xml:7850:         type="ims"
+./system/etc/apns-conf.xml:7964:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:7967:         apn="ims"
+./system/etc/apns-conf.xml:7968:         type="ims"
+./system/etc/apns-conf.xml:7993:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:7996:         apn="ims"
+./system/etc/apns-conf.xml:7997:         type="ims"
+./system/etc/apns-conf.xml:8098:    <apn carrier="Viaero IMS"
+./system/etc/apns-conf.xml:8101:         apn="ims"
+./system/etc/apns-conf.xml:8102:         type="ims"
+./system/etc/apns-conf.xml:8136:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:8139:         apn="ims"
+./system/etc/apns-conf.xml:8140:         type="ims"
+./system/etc/apns-conf.xml:8188:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:8191:         apn="ims"
+./system/etc/apns-conf.xml:8192:         type="ims"
+./system/etc/apns-conf.xml:8258:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:8261:         apn="ims"
+./system/etc/apns-conf.xml:8262:         type="ims"
+./system/etc/apns-conf.xml:8369:    <apn carrier="T-Mobile IMS"
+./system/etc/apns-conf.xml:8372:         apn="ims"
+./system/etc/apns-conf.xml:8373:         type="ims"
+./system/etc/apns-conf.xml:8522:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:8525:         apn="ims"
+./system/etc/apns-conf.xml:8526:         type="ims"
+./system/etc/apns-conf.xml:8640:    <apn carrier="Choice IMS"
+./system/etc/apns-conf.xml:8643:         apn="IMS"
+./system/etc/apns-conf.xml:8644:         type="ims"
+./system/etc/apns-conf.xml:8747:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:8750:         apn="ims"
+./system/etc/apns-conf.xml:8751:         type="ims"
+./system/etc/apns-conf.xml:9479:         apn="ims.pinebelt.net"
+./system/etc/apns-conf.xml:9480:         type="ims"
+./system/etc/apns-conf.xml:9591:    <apn carrier="AT&amp;T FirstNet IMS"
+./system/etc/apns-conf.xml:9594:         apn="ims"
+./system/etc/apns-conf.xml:9595:         type="ims"
+./system/etc/apns-conf.xml:9635:    <apn carrier="AT&amp;T FirstNet IMS"
+./system/etc/apns-conf.xml:9638:         apn="ims"
+./system/etc/apns-conf.xml:9639:         type="ims"
+./system/etc/apns-conf.xml:9706:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:9709:         apn="ims"
+./system/etc/apns-conf.xml:9710:         type="ims"
+./system/etc/apns-conf.xml:9808:    <apn carrier="Telcel IMS"
+./system/etc/apns-conf.xml:9811:         apn="ims"
+./system/etc/apns-conf.xml:9812:         type="ims"
+./system/etc/apns-conf.xml:9825:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:9828:         apn="ims"
+./system/etc/apns-conf.xml:9829:         type="ims"
+./system/etc/apns-conf.xml:9858:    <apn carrier="AT&amp;T IMS"
+./system/etc/apns-conf.xml:9861:         apn="ims"
+./system/etc/apns-conf.xml:9862:         type="ims"
+./system/etc/apns-conf.xml:9903:    <apn carrier="AT&amp;T IMS"
+./system/etc/apns-conf.xml:9906:         apn="ims"
+./system/etc/apns-conf.xml:9907:         type="ims"
+./system/etc/apns-conf.xml:9964:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:9967:        apn="ims"
+./system/etc/apns-conf.xml:9968:        type="ims"
+./system/etc/apns-conf.xml:11053:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11056:         apn="ims"
+./system/etc/apns-conf.xml:11057:         type="ims"
+./system/etc/apns-conf.xml:11080:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11083:         apn="ims"
+./system/etc/apns-conf.xml:11084:         type="ims"
+./system/etc/apns-conf.xml:11107:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11110:         apn="ims"
+./system/etc/apns-conf.xml:11111:         type="ims"
+./system/etc/apns-conf.xml:11134:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11137:         apn="ims"
+./system/etc/apns-conf.xml:11138:         type="ims"
+./system/etc/apns-conf.xml:11161:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11164:         apn="ims"
+./system/etc/apns-conf.xml:11165:         type="ims"
+./system/etc/apns-conf.xml:11188:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11191:         apn="ims"
+./system/etc/apns-conf.xml:11192:         type="ims"
+./system/etc/apns-conf.xml:11234:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11237:         apn="ims"
+./system/etc/apns-conf.xml:11238:         type="ims"
+./system/etc/apns-conf.xml:11261:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11264:         apn="ims"
+./system/etc/apns-conf.xml:11265:         type="ims"
+./system/etc/apns-conf.xml:11288:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11291:         apn="ims"
+./system/etc/apns-conf.xml:11292:         type="ims"
+./system/etc/apns-conf.xml:11315:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11318:         apn="ims"
+./system/etc/apns-conf.xml:11319:         type="ims"
+./system/etc/apns-conf.xml:11342:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11345:         apn="ims"
+./system/etc/apns-conf.xml:11346:         type="ims"
+./system/etc/apns-conf.xml:11369:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11372:         apn="ims"
+./system/etc/apns-conf.xml:11373:         type="ims"
+./system/etc/apns-conf.xml:11396:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11399:         apn="ims"
+./system/etc/apns-conf.xml:11400:         type="ims"
+./system/etc/apns-conf.xml:11470:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11473:         apn="ims"
+./system/etc/apns-conf.xml:11474:         type="ims"
+./system/etc/apns-conf.xml:11497:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11500:         apn="ims"
+./system/etc/apns-conf.xml:11501:         type="ims"
+./system/etc/apns-conf.xml:11543:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11546:         apn="ims"
+./system/etc/apns-conf.xml:11547:         type="ims"
+./system/etc/apns-conf.xml:11570:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11573:         apn="ims"
+./system/etc/apns-conf.xml:11574:         type="ims"
+./system/etc/apns-conf.xml:11625:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11628:         apn="ims"
+./system/etc/apns-conf.xml:11629:         type="ims"
+./system/etc/apns-conf.xml:11708:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11711:         apn="ims"
+./system/etc/apns-conf.xml:11712:         type="ims"
+./system/etc/apns-conf.xml:11735:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11738:         apn="ims"
+./system/etc/apns-conf.xml:11739:         type="ims"
+./system/etc/apns-conf.xml:11903:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:11906:         apn="ims"
+./system/etc/apns-conf.xml:11907:         type="ims"
+./system/etc/apns-conf.xml:11986:    <apn carrier="ims"
+./system/etc/apns-conf.xml:11989:         apn="ims"
+./system/etc/apns-conf.xml:11990:         type="ims"
+./system/etc/apns-conf.xml:12013:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12016:         apn="ims"
+./system/etc/apns-conf.xml:12017:         type="ims"
+./system/etc/apns-conf.xml:12040:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12043:         apn="ims"
+./system/etc/apns-conf.xml:12044:         type="ims"
+./system/etc/apns-conf.xml:12067:    <apn carrier="ims"
+./system/etc/apns-conf.xml:12070:         apn="ims"
+./system/etc/apns-conf.xml:12071:         type="ims"
+./system/etc/apns-conf.xml:12094:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12097:         apn="ims"
+./system/etc/apns-conf.xml:12098:         type="ims"
+./system/etc/apns-conf.xml:12242:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12245:         apn="ims"
+./system/etc/apns-conf.xml:12246:         type="ims"
+./system/etc/apns-conf.xml:12326:    <apn carrier="ims"
+./system/etc/apns-conf.xml:12329:         apn="ims"
+./system/etc/apns-conf.xml:12330:         type="ims"
+./system/etc/apns-conf.xml:12456:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12459:         apn="ims"
+./system/etc/apns-conf.xml:12460:         type="ims"
+./system/etc/apns-conf.xml:12616:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12619:         apn="ims"
+./system/etc/apns-conf.xml:12620:         type="ims"
+./system/etc/apns-conf.xml:12700:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12703:         apn="ims"
+./system/etc/apns-conf.xml:12704:         type="ims"
+./system/etc/apns-conf.xml:12746:    <apn carrier="ims"
+./system/etc/apns-conf.xml:12749:         apn="ims"
+./system/etc/apns-conf.xml:12750:         type="ims"
+./system/etc/apns-conf.xml:12792:    <apn carrier="ims"
+./system/etc/apns-conf.xml:12795:         apn="ims"
+./system/etc/apns-conf.xml:12796:         type="ims"
+./system/etc/apns-conf.xml:12819:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12822:         apn="ims"
+./system/etc/apns-conf.xml:12823:         type="ims"
+./system/etc/apns-conf.xml:12846:    <apn carrier="ims"
+./system/etc/apns-conf.xml:12849:         apn="ims"
+./system/etc/apns-conf.xml:12850:         type="ims"
+./system/etc/apns-conf.xml:12873:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12876:         apn="ims"
+./system/etc/apns-conf.xml:12877:         type="ims"
+./system/etc/apns-conf.xml:12900:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12903:         apn="ims"
+./system/etc/apns-conf.xml:12904:         type="ims"
+./system/etc/apns-conf.xml:12946:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12949:         apn="ims"
+./system/etc/apns-conf.xml:12950:         type="ims"
+./system/etc/apns-conf.xml:12973:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:12976:         apn="ims"
+./system/etc/apns-conf.xml:12977:         type="ims"
+./system/etc/apns-conf.xml:13000:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13003:         apn="ims"
+./system/etc/apns-conf.xml:13004:         type="ims"
+./system/etc/apns-conf.xml:13016:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13019:         apn="ims"
+./system/etc/apns-conf.xml:13020:         type="ims"
+./system/etc/apns-conf.xml:13054:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13057:         apn="ims"
+./system/etc/apns-conf.xml:13058:         type="ims"
+./system/etc/apns-conf.xml:13081:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13084:         apn="ims"
+./system/etc/apns-conf.xml:13085:         type="ims"
+./system/etc/apns-conf.xml:13108:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13111:         apn="ims"
+./system/etc/apns-conf.xml:13112:         type="ims"
+./system/etc/apns-conf.xml:13971:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:13974:         apn="ims"
+./system/etc/apns-conf.xml:13975:         type="ims"
+./system/etc/apns-conf.xml:13998:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14001:         apn="ims"
+./system/etc/apns-conf.xml:14002:         type="ims"
+./system/etc/apns-conf.xml:14025:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14028:         apn="ims"
+./system/etc/apns-conf.xml:14029:         type="ims"
+./system/etc/apns-conf.xml:14052:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14055:         apn="ims"
+./system/etc/apns-conf.xml:14056:         type="ims"
+./system/etc/apns-conf.xml:14079:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14082:         apn="ims"
+./system/etc/apns-conf.xml:14083:         type="ims"
+./system/etc/apns-conf.xml:14106:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14109:         apn="ims"
+./system/etc/apns-conf.xml:14110:         type="ims"
+./system/etc/apns-conf.xml:14133:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14136:         apn="ims"
+./system/etc/apns-conf.xml:14137:         type="ims"
+./system/etc/apns-conf.xml:14160:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14163:         apn="ims"
+./system/etc/apns-conf.xml:14164:         type="ims"
+./system/etc/apns-conf.xml:14187:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14190:         apn="ims"
+./system/etc/apns-conf.xml:14191:         type="ims"
+./system/etc/apns-conf.xml:14214:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14217:         apn="ims"
+./system/etc/apns-conf.xml:14218:         type="ims"
+./system/etc/apns-conf.xml:14241:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14244:         apn="ims"
+./system/etc/apns-conf.xml:14245:         type="ims"
+./system/etc/apns-conf.xml:14268:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14271:         apn="ims"
+./system/etc/apns-conf.xml:14272:         type="ims"
+./system/etc/apns-conf.xml:14295:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14298:         apn="ims"
+./system/etc/apns-conf.xml:14299:         type="ims"
+./system/etc/apns-conf.xml:14322:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14325:         apn="ims"
+./system/etc/apns-conf.xml:14326:         type="ims"
+./system/etc/apns-conf.xml:14349:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14352:         apn="ims"
+./system/etc/apns-conf.xml:14353:         type="ims"
+./system/etc/apns-conf.xml:14376:    <apn carrier="ims"
+./system/etc/apns-conf.xml:14379:         apn="ims"
+./system/etc/apns-conf.xml:14380:         type="ims"
+./system/etc/apns-conf.xml:14403:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:14406:         apn="ims"
+./system/etc/apns-conf.xml:14407:         type="ims"
+./system/etc/apns-conf.xml:15222:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15225:         apn="ims"
+./system/etc/apns-conf.xml:15226:         type="ims"
+./system/etc/apns-conf.xml:15230:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15340:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15343:         apn="ims"
+./system/etc/apns-conf.xml:15344:         type="ims"
+./system/etc/apns-conf.xml:15367:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15370:         apn="ims"
+./system/etc/apns-conf.xml:15371:         type="ims"
+./system/etc/apns-conf.xml:15420:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15423:         apn="ims"
+./system/etc/apns-conf.xml:15424:         type="ims"
+./system/etc/apns-conf.xml:15447:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15450:         apn="ims"
+./system/etc/apns-conf.xml:15451:         type="ims"
+./system/etc/apns-conf.xml:15474:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15477:         apn="ims"
+./system/etc/apns-conf.xml:15478:         type="ims"
+./system/etc/apns-conf.xml:15527:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15530:         apn="ims"
+./system/etc/apns-conf.xml:15531:         type="ims"
+./system/etc/apns-conf.xml:15554:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:15557:         apn="ims"
+./system/etc/apns-conf.xml:15558:         type="ims"
+./system/etc/apns-conf.xml:15569:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15572:         apn="ims"
+./system/etc/apns-conf.xml:15573:         type="ims"
+./system/etc/apns-conf.xml:15577:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15592:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15595:         apn="ims"
+./system/etc/apns-conf.xml:15596:         type="ims"
+./system/etc/apns-conf.xml:15600:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15615:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15618:         apn="ims"
+./system/etc/apns-conf.xml:15619:         type="ims"
+./system/etc/apns-conf.xml:15623:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15638:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15641:         apn="ims"
+./system/etc/apns-conf.xml:15642:         type="ims"
+./system/etc/apns-conf.xml:15646:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15661:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15664:         apn="ims"
+./system/etc/apns-conf.xml:15665:         type="ims"
+./system/etc/apns-conf.xml:15669:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15684:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15687:         apn="ims"
+./system/etc/apns-conf.xml:15688:         type="ims"
+./system/etc/apns-conf.xml:15692:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15707:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15710:         apn="ims"
+./system/etc/apns-conf.xml:15711:         type="ims"
+./system/etc/apns-conf.xml:15715:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15730:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15733:         apn="ims"
+./system/etc/apns-conf.xml:15734:         type="ims"
+./system/etc/apns-conf.xml:15738:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15753:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15756:         apn="ims"
+./system/etc/apns-conf.xml:15757:         type="ims"
+./system/etc/apns-conf.xml:15761:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15776:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15779:         apn="ims"
+./system/etc/apns-conf.xml:15780:         type="ims"
+./system/etc/apns-conf.xml:15784:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15799:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15802:         apn="ims"
+./system/etc/apns-conf.xml:15803:         type="ims"
+./system/etc/apns-conf.xml:15807:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15822:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15825:         apn="ims"
+./system/etc/apns-conf.xml:15826:         type="ims"
+./system/etc/apns-conf.xml:15830:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15845:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15848:         apn="ims"
+./system/etc/apns-conf.xml:15849:         type="ims"
+./system/etc/apns-conf.xml:15853:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15868:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15871:         apn="ims"
+./system/etc/apns-conf.xml:15872:         type="ims"
+./system/etc/apns-conf.xml:15876:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15891:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15894:         apn="ims"
+./system/etc/apns-conf.xml:15895:         type="ims"
+./system/etc/apns-conf.xml:15899:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15914:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15917:         apn="ims"
+./system/etc/apns-conf.xml:15918:         type="ims"
+./system/etc/apns-conf.xml:15922:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15937:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15940:         apn="ims"
+./system/etc/apns-conf.xml:15941:         type="ims"
+./system/etc/apns-conf.xml:15945:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15960:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15963:         apn="ims"
+./system/etc/apns-conf.xml:15964:         type="ims"
+./system/etc/apns-conf.xml:15968:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:15983:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:15986:         apn="ims"
+./system/etc/apns-conf.xml:15987:         type="ims"
+./system/etc/apns-conf.xml:15991:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:16006:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:16009:         apn="ims"
+./system/etc/apns-conf.xml:16010:         type="ims"
+./system/etc/apns-conf.xml:16014:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:16029:    <apn carrier="RJio IMS"
+./system/etc/apns-conf.xml:16032:         apn="ims"
+./system/etc/apns-conf.xml:16033:         type="ims"
+./system/etc/apns-conf.xml:16037:    <apn carrier="Emergency IMS"
+./system/etc/apns-conf.xml:17661:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:17664:         apn="ims"
+./system/etc/apns-conf.xml:17665:         type="ims"
+./system/etc/apns-conf.xml:17924:    <apn carrier="SKT IMS"
+./system/etc/apns-conf.xml:17927:         apn="IMS"
+./system/etc/apns-conf.xml:17928:         type="ims"
+./system/etc/apns-conf.xml:17951:    <apn carrier="LG uplus IMS"
+./system/etc/apns-conf.xml:17954:         apn="ims.lguplus.co.kr"
+./system/etc/apns-conf.xml:17955:         type="ia,ims"
+./system/etc/apns-conf.xml:17990:    <apn carrier="KT IMS"
+./system/etc/apns-conf.xml:17993:         apn="IMS"
+./system/etc/apns-conf.xml:17994:         type="ims"
+./system/etc/apns-conf.xml:18158:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18161:         apn="ims"
+./system/etc/apns-conf.xml:18162:         type="ims"
+./system/etc/apns-conf.xml:18177:    <apn carrier="1O1O IMS"
+./system/etc/apns-conf.xml:18180:         apn="ims"
+./system/etc/apns-conf.xml:18181:         type="ims"
+./system/etc/apns-conf.xml:18199:    <apn carrier="csl IMS"
+./system/etc/apns-conf.xml:18202:         apn="ims"
+./system/etc/apns-conf.xml:18203:         type="ims"
+./system/etc/apns-conf.xml:18220:    <apn carrier="SUN Mobile IMS"
+./system/etc/apns-conf.xml:18223:         apn="ims"
+./system/etc/apns-conf.xml:18224:         type="ims"
+./system/etc/apns-conf.xml:18241:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18244:         apn="ims"
+./system/etc/apns-conf.xml:18245:         type="ims"
+./system/etc/apns-conf.xml:18262:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18265:         apn="ims"
+./system/etc/apns-conf.xml:18266:         type="ims"
+./system/etc/apns-conf.xml:18283:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18286:         apn="ims"
+./system/etc/apns-conf.xml:18287:         type="ims"
+./system/etc/apns-conf.xml:18304:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18307:         apn="ims"
+./system/etc/apns-conf.xml:18308:         type="ims"
+./system/etc/apns-conf.xml:18361:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18364:         apn="ims"
+./system/etc/apns-conf.xml:18365:         type="ims"
+./system/etc/apns-conf.xml:18380:    <apn carrier="1O1O IMS"
+./system/etc/apns-conf.xml:18383:         apn="ims"
+./system/etc/apns-conf.xml:18384:         type="ims"
+./system/etc/apns-conf.xml:18402:    <apn carrier="csl IMS"
+./system/etc/apns-conf.xml:18405:         apn="ims"
+./system/etc/apns-conf.xml:18406:         type="ims"
+./system/etc/apns-conf.xml:18423:    <apn carrier="SUN Mobile IMS"
+./system/etc/apns-conf.xml:18426:         apn="ims"
+./system/etc/apns-conf.xml:18427:         type="ims"
+./system/etc/apns-conf.xml:18444:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18447:         apn="ims"
+./system/etc/apns-conf.xml:18448:         type="ims"
+./system/etc/apns-conf.xml:18465:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18468:         apn="ims"
+./system/etc/apns-conf.xml:18469:         type="ims"
+./system/etc/apns-conf.xml:18486:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18489:         apn="ims"
+./system/etc/apns-conf.xml:18490:         type="ims"
+./system/etc/apns-conf.xml:18507:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18510:         apn="ims"
+./system/etc/apns-conf.xml:18511:         type="ims"
+./system/etc/apns-conf.xml:18538:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:18541:         apn="ims"
+./system/etc/apns-conf.xml:18542:         type="ims"
+./system/etc/apns-conf.xml:18565:    <apn carrier="3 IMS"
+./system/etc/apns-conf.xml:18568:         apn="ims.lte.three.com.hk"
+./system/etc/apns-conf.xml:18569:         type="ims"
+./system/etc/apns-conf.xml:18584:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:18587:         apn="IMS"
+./system/etc/apns-conf.xml:18588:         type="ims"
+./system/etc/apns-conf.xml:18611:    <apn carrier="3 IMS"
+./system/etc/apns-conf.xml:18614:         apn="ims.lte.three.com.hk"
+./system/etc/apns-conf.xml:18615:         type="ims"
+./system/etc/apns-conf.xml:18743:    <apn carrier="csl IMS"
+./system/etc/apns-conf.xml:18746:         apn="ims"
+./system/etc/apns-conf.xml:18747:         type="ims"
+./system/etc/apns-conf.xml:18779:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18782:         apn="ims"
+./system/etc/apns-conf.xml:18783:         type="ims"
+./system/etc/apns-conf.xml:18798:    <apn carrier="1O1O IMS"
+./system/etc/apns-conf.xml:18801:         apn="ims"
+./system/etc/apns-conf.xml:18802:         type="ims"
+./system/etc/apns-conf.xml:18820:    <apn carrier="csl IMS"
+./system/etc/apns-conf.xml:18823:         apn="ims"
+./system/etc/apns-conf.xml:18824:         type="ims"
+./system/etc/apns-conf.xml:18841:    <apn carrier="SUN Mobile IMS"
+./system/etc/apns-conf.xml:18844:         apn="ims"
+./system/etc/apns-conf.xml:18845:         type="ims"
+./system/etc/apns-conf.xml:18862:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18865:         apn="ims"
+./system/etc/apns-conf.xml:18866:         type="ims"
+./system/etc/apns-conf.xml:18883:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18886:         apn="ims"
+./system/etc/apns-conf.xml:18887:         type="ims"
+./system/etc/apns-conf.xml:18904:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18907:         apn="ims"
+./system/etc/apns-conf.xml:18908:         type="ims"
+./system/etc/apns-conf.xml:18925:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:18928:         apn="ims"
+./system/etc/apns-conf.xml:18929:         type="ims"
+./system/etc/apns-conf.xml:18944:    <apn carrier="csl IMS"
+./system/etc/apns-conf.xml:18947:         apn="ims"
+./system/etc/apns-conf.xml:18948:         type="ims"
+./system/etc/apns-conf.xml:18973:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:18976:         apn="IMS"
+./system/etc/apns-conf.xml:18977:         type="ims"
+./system/etc/apns-conf.xml:19030:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:19033:         apn="IMS"
+./system/etc/apns-conf.xml:19034:         type="ims"
+./system/etc/apns-conf.xml:19117:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:19120:         apn="IMS"
+./system/etc/apns-conf.xml:19121:         type="ims"
+./system/etc/apns-conf.xml:19221:    <apn carrier="移动ims"
+./system/etc/apns-conf.xml:19224:         apn="ims"
+./system/etc/apns-conf.xml:19225:         type="ims"
+./system/etc/apns-conf.xml:19246:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:19249:         apn="ims"
+./system/etc/apns-conf.xml:19250:         type="ims"
+./system/etc/apns-conf.xml:19271:     <apn carrier="移动ims"
+./system/etc/apns-conf.xml:19274:         apn="ims"
+./system/etc/apns-conf.xml:19275:         type="ims"
+./system/etc/apns-conf.xml:19303:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:19306:         apn="IMS"
+./system/etc/apns-conf.xml:19307:         type="ims"
+./system/etc/apns-conf.xml:19356:    <apn carrier="移动IMS"
+./system/etc/apns-conf.xml:19359:         apn="ims"
+./system/etc/apns-conf.xml:19360:         type="ims"
+./system/etc/apns-conf.xml:19385:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:19388:         apn="ims"
+./system/etc/apns-conf.xml:19389:         type="ims"
+./system/etc/apns-conf.xml:19438:    <apn carrier="移动IMS"
+./system/etc/apns-conf.xml:19441:         apn="ims"
+./system/etc/apns-conf.xml:19442:         type="ims"
+./system/etc/apns-conf.xml:19467:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:19470:         apn="ims"
+./system/etc/apns-conf.xml:19471:         type="ims"
+./system/etc/apns-conf.xml:19500:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:19503:         apn="IMS"
+./system/etc/apns-conf.xml:19504:         type="ims"
+./system/etc/apns-conf.xml:19532:    <apn carrier="中国电信(IMS)"
+./system/etc/apns-conf.xml:19535:         apn="IMS"
+./system/etc/apns-conf.xml:19536:         type="ims"
+./system/etc/apns-conf.xml:19585:    <apn carrier="APT IMS"
+./system/etc/apns-conf.xml:19588:         apn="ims"
+./system/etc/apns-conf.xml:19589:         type="ims"
+./system/etc/apns-conf.xml:19617:    <apn carrier="T Star-IMS"
+./system/etc/apns-conf.xml:19620:         apn="ims"
+./system/etc/apns-conf.xml:19621:         type="ims"
+./system/etc/apns-conf.xml:19639:    <apn carrier="CHT IMS"
+./system/etc/apns-conf.xml:19642:         apn="ims"
+./system/etc/apns-conf.xml:19643:         type="ims"
+./system/etc/apns-conf.xml:19913:         apn="ims"
+./system/etc/apns-conf.xml:19914:         type="ims"
+./system/etc/apns-conf.xml:19952:    <apn carrier="ims"
+./system/etc/apns-conf.xml:19955:         apn="ims"
+./system/etc/apns-conf.xml:19956:         type="ims"
+./system/etc/apns-conf.xml:20016:    <apn carrier="ims"
+./system/etc/apns-conf.xml:20019:         apn="ims"
+./system/etc/apns-conf.xml:20020:         type="ims"
+./system/etc/apns-conf.xml:20100:    <apn carrier="ims"
+./system/etc/apns-conf.xml:20103:         apn="ims"
+./system/etc/apns-conf.xml:20104:         type="ims"
+./system/etc/apns-conf.xml:20123:    <apn carrier="ims"
+./system/etc/apns-conf.xml:20126:         apn="ims"
+./system/etc/apns-conf.xml:20127:         type="ims"
+./system/etc/apns-conf.xml:20225:    <apn carrier="SmartFren IMS"
+./system/etc/apns-conf.xml:20228:         apn="ims"
+./system/etc/apns-conf.xml:20229:         type="ims"
+./system/etc/apns-conf.xml:20317:    <apn carrier="SmartFren IMS"
+./system/etc/apns-conf.xml:20320:         apn="ims"
+./system/etc/apns-conf.xml:20321:         type="ims"
+./system/etc/apns-conf.xml:20470:    <apn carrier="TRUE IMS"
+./system/etc/apns-conf.xml:20473:         apn="ims"
+./system/etc/apns-conf.xml:20474:         type="ims"
+./system/etc/apns-conf.xml:20527:    <apn carrier="TRUE IMS"
+./system/etc/apns-conf.xml:20530:         apn="ims"
+./system/etc/apns-conf.xml:20531:         type="ims"
+./system/etc/apns-conf.xml:20631:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:20634:         apn="ims"
+./system/etc/apns-conf.xml:20635:         type="ims"
+./system/etc/apns-conf.xml:20659:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:20662:         apn="ims"
+./system/etc/apns-conf.xml:20663:         type="ims"
+./system/etc/apns-conf.xml:21821:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:21824:         apn="ims"
+./system/etc/apns-conf.xml:21825:         type="ims"
+./system/etc/apns-conf.xml:22641:    <apn carrier="TELKOM IMS"
+./system/etc/apns-conf.xml:22644:         apn="ims"
+./system/etc/apns-conf.xml:22645:         type="ims"
+./system/etc/apns-conf.xml:23266:    <apn carrier="IMS"
+./system/etc/apns-conf.xml:23269:         apn="ims"
+./system/etc/apns-conf.xml:23270:         type="ims"
+./system/etc/apns-conf.xml:23307:    <apn carrier="Claro IMS"
+./system/etc/apns-conf.xml:23310:         apn="ims"
+./system/etc/apns-conf.xml:23311:         type="ims"
+./system/etc/apns-conf.xml:23336:    <apn carrier="Entel IMS"
+./system/etc/apns-conf.xml:23339:         apn="ims"
+./system/etc/apns-conf.xml:23340:         type="ims"
+./system/etc/apns-conf.xml:23456:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:23459:         apn="ims"
+./system/etc/apns-conf.xml:23460:         type="ims"
+./system/etc/apns-conf.xml:23503:    <apn carrier="Personal IMS"
+./system/etc/apns-conf.xml:23506:        apn="ims"
+./system/etc/apns-conf.xml:23507:        type="ims"
+./system/etc/apns-conf.xml:23539:    <apn carrier="Claro IMS"
+./system/etc/apns-conf.xml:23542:         apn="ims"
+./system/etc/apns-conf.xml:23543:         type="ims"
+./system/etc/apns-conf.xml:23577:    <apn carrier="Personal IMS"
+./system/etc/apns-conf.xml:23580:        apn="ims"
+./system/etc/apns-conf.xml:23581:        type="ims"
+./system/etc/apns-conf.xml:23616:    <apn carrier="Personal IMS"
+./system/etc/apns-conf.xml:23619:        apn="ims"
+./system/etc/apns-conf.xml:23620:        type="ims"
+./system/etc/apns-conf.xml:23639:    <apn carrier="TIM IMS"
+./system/etc/apns-conf.xml:23642:         apn="ims"
+./system/etc/apns-conf.xml:23643:         type="ims"
+./system/etc/apns-conf.xml:23661:    <apn carrier="TIM IMS"
+./system/etc/apns-conf.xml:23664:         apn="ims"
+./system/etc/apns-conf.xml:23665:         type="ims"
+./system/etc/apns-conf.xml:23683:    <apn carrier="TIM IMS"
+./system/etc/apns-conf.xml:23686:         apn="ims"
+./system/etc/apns-conf.xml:23687:         type="ims"
+./system/etc/apns-conf.xml:23713:    <apn carrier="Claro IMS"
+./system/etc/apns-conf.xml:23716:         apn="ims"
+./system/etc/apns-conf.xml:23717:         type="ims"
+./system/etc/apns-conf.xml:23721:    <apn carrier="Vivo IMS"
+./system/etc/apns-conf.xml:23724:         apn="ims"
+./system/etc/apns-conf.xml:23725:         type="ims"
+./system/etc/apns-conf.xml:23787:    <apn carrier="Vivo IMS"
+./system/etc/apns-conf.xml:23790:         apn="ims"
+./system/etc/apns-conf.xml:23791:         type="ims"
+./system/etc/apns-conf.xml:23820:    <apn carrier="Vivo IMS"
+./system/etc/apns-conf.xml:23823:         apn="ims"
+./system/etc/apns-conf.xml:23824:         type="ims"
+./system/etc/apns-conf.xml:23926:    <apn carrier="Vivo IMS"
+./system/etc/apns-conf.xml:23929:         apn="ims"
+./system/etc/apns-conf.xml:23930:         type="ims"
+./system/etc/apns-conf.xml:24086:    <apn carrier="Porto Conecta IMS"
+./system/etc/apns-conf.xml:24089:         apn="ims"
+./system/etc/apns-conf.xml:24090:         type="ims"
+./system/etc/apns-conf.xml:24094:    <apn carrier="Entel IMS"
+./system/etc/apns-conf.xml:24097:         apn="ims"
+./system/etc/apns-conf.xml:24098:         type="ims"
+./system/etc/apns-conf.xml:24121:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:24124:         apn="ims"
+./system/etc/apns-conf.xml:24125:         type="ims"
+./system/etc/apns-conf.xml:24212:    <apn carrier="WOM IMS"
+./system/etc/apns-conf.xml:24215:         apn="ims"
+./system/etc/apns-conf.xml:24216:         type="ims"
+./system/etc/apns-conf.xml:24221:    <apn carrier="Entel IMS"
+./system/etc/apns-conf.xml:24224:         apn="ims"
+./system/etc/apns-conf.xml:24225:         type="ims"
+./system/etc/apns-conf.xml:24239:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:24242:         apn="ims"
+./system/etc/apns-conf.xml:24243:         type="ims"
+./system/etc/apns-conf.xml:24268:    <apn carrier="Claro IMS"
+./system/etc/apns-conf.xml:24271:         apn="ims"
+./system/etc/apns-conf.xml:24272:         type="ims"
+./system/etc/apns-conf.xml:24431:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:24434:         apn="ims"
+./system/etc/apns-conf.xml:24435:         type="ims"
+./system/etc/apns-conf.xml:24467:    <apn carrier="Avantel IMS"
+./system/etc/apns-conf.xml:24470:         apn="ims"
+./system/etc/apns-conf.xml:24471:         type="ims"
+./system/etc/apns-conf.xml:24725:    <apn carrier="Ecuador:Movistar:IMS"
+./system/etc/apns-conf.xml:24728:         apn="ims"
+./system/etc/apns-conf.xml:24729:         type="ims"
+./system/etc/apns-conf.xml:24911:    <apn carrier="Movistar IMS"
+./system/etc/apns-conf.xml:24914:         apn="ims"
+./system/etc/apns-conf.xml:24915:         type="ims"
+./system/etc/apns-conf.xml:24927:    <apn carrier="Claro IMS"
+./system/etc/apns-conf.xml:24930:         apn="ims"
+./system/etc/apns-conf.xml:24931:         type="ims"
+./system/etc/apns-conf.xml:25253:    <apn carrier="Rogers IMS"
+./system/etc/apns-conf.xml:25256:         apn="ims"
+./system/etc/apns-conf.xml:25257:         type="ims"
+./system/etc/apns-conf.xml:25285:    <apn name="IMS"
+./system/etc/apns-conf.xml:25288:         apn="ims"
+./system/etc/apns-conf.xml:25289:         type="ims"
+./system/etc/apns-conf.xml:25342:    <apn carrier="Rogers IMS"
+./system/etc/apns-conf.xml:25345:         apn="ims"
+./system/etc/apns-conf.xml:25346:         type="ims"
+./system/etc/apns-conf.xml:25389:    <apn name="IMS"
+./system/etc/apns-conf.xml:25392:         apn="ims"
+./system/etc/apns-conf.xml:25393:         type="ims"
+./system/etc/apns-conf.xml:25438:    <apn name="IMS"
+./system/etc/apns-conf.xml:25441:         apn="ims"
+./system/etc/apns-conf.xml:25442:         type="ims"
+./system/etc/apns-conf.xml:25528:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:25531:         apn="ims"
+./system/etc/apns-conf.xml:25532:         type="ims"
+./system/etc/apns-conf.xml:25569:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:25572:         apn="ims"
+./system/etc/apns-conf.xml:25573:         type="ims"
+./system/etc/apns-conf.xml:25612:         type="default,internet,supl,hipri,mms,ia,ims"
+./system/etc/apns-conf.xml:25645:    <apn carrier="Inland IMS"
+./system/etc/apns-conf.xml:25649:         type="ims,ia"
+./system/etc/apns-conf.xml:25822:    <apn carrier="CSpire IMS"
+./system/etc/apns-conf.xml:25825:         apn="ims.cs4glte.com"
+./system/etc/apns-conf.xml:25826:         type="ims"
+./system/etc/apns-conf.xml:25911:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:25914:         apn="ims"
+./system/etc/apns-conf.xml:25915:         type="ims"
+./system/etc/apns-conf.xml:26104:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:26107:         apn="ims"
+./system/etc/apns-conf.xml:26108:         type="ims"
+./system/etc/apns-conf.xml:26207:    <apn carrier="NexTech IMS"
+./system/etc/apns-conf.xml:26210:         apn="ims.lte.ntwls.com"
+./system/etc/apns-conf.xml:26211:         type="ims"
+./system/etc/apns-conf.xml:26256:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:26259:         apn="ims"
+./system/etc/apns-conf.xml:26260:         type="ims"
+./system/etc/apns-conf.xml:26280:    <apn carrier="Sprocket IMS"
+./system/etc/apns-conf.xml:26284:         type="ims,ia"
+./system/etc/apns-conf.xml:26371:    <apn carrier="Sprint IMS"
+./system/etc/apns-conf.xml:26374:         apn="ims"
+./system/etc/apns-conf.xml:26375:         type="ims"
+./system/etc/apns-conf.xml:26613:    <apn carrier="Bell ims"
+./system/etc/apns-conf.xml:26616:         apn="ims"
+./system/etc/apns-conf.xml:26617:         type="ims"
+./system/etc/apns-conf.xml:26631:    <apn carrier="Bell ims"
+./system/etc/apns-conf.xml:26634:         apn="ims"
+./system/etc/apns-conf.xml:26635:         type="ims"
+./system/etc/apns-conf.xml:26649:    <apn carrier="Bell ims"
+./system/etc/apns-conf.xml:26652:         apn="ims"
+./system/etc/apns-conf.xml:26653:         type="ims"
+./system/etc/apns-conf.xml:26658:<apn carrier="Verizon Roaming IMS"
+./system/etc/apns-conf.xml:26661:         apn="IMS"
+./system/etc/apns-conf.xml:26662:         type="ims,ia"
+./system/etc/apns-conf.xml:26779:    <apn carrier="Tracfone IMS"
+./system/etc/apns-conf.xml:26783:         type="ims,ia"
+./system/etc/apns-conf.xml:26823:         type="default,mms,dun,supl,fota,cbs,ims"
+./system/etc/apns-conf.xml:26847:    <apn carrier="Distribution IMS"
+./system/etc/apns-conf.xml:26851:         type="ims,ia"
+./system/etc/apns-conf.xml:26894:    <apn carrier="Revol IMS"
+./system/etc/apns-conf.xml:26898:         type="ims,ia"
+./system/etc/apns-conf.xml:26941:    <apn carrier="Peopleswire IMS"
+./system/etc/apns-conf.xml:26945:         type="ims,ia"
+./system/etc/apns-conf.xml:26989:    <apn carrier="Mohave IMS"
+./system/etc/apns-conf.xml:26993:         type="ims,ia"
+./system/etc/apns-conf.xml:27036:    <apn carrier="Mobilenation IMS"
+./system/etc/apns-conf.xml:27040:         type="ims,ia"
+./system/etc/apns-conf.xml:27085:    <apn carrier="Mobipcs IMS"
+./system/etc/apns-conf.xml:27089:         type="ims,ia"
+./system/etc/apns-conf.xml:27132:    <apn carrier="Flatwire IMS"
+./system/etc/apns-conf.xml:27136:         type="ims,ia"
+./system/etc/apns-conf.xml:27179:    <apn carrier="Bluewire IMS"
+./system/etc/apns-conf.xml:27183:         type="ims,ia"
+./system/etc/apns-conf.xml:27249:    <apn carrier="Verizon IMS"
+./system/etc/apns-conf.xml:27252:         apn="IMS"
+./system/etc/apns-conf.xml:27253:         type="ims,ia"
+./system/etc/apns-conf.xml:27324:    <apn carrier=" ALU Test-SIM IMS"
+./system/etc/apns-conf.xml:27327:         apn="IMS"
+./system/etc/apns-conf.xml:27328:         type="ims,ia"
+./system/etc/apns-conf.xml:27378:    <apn carrier="Itewire IMS"
+./system/etc/apns-conf.xml:27382:         type="ims,ia"
+./system/etc/apns-conf.xml:27424:    <apn carrier="Etex IMS"
+./system/etc/apns-conf.xml:27428:         type="ims,ia"
+./system/etc/apns-conf.xml:27471:    <apn carrier="Mta IMS"
+./system/etc/apns-conf.xml:27474:         apn="IMS"
+./system/etc/apns-conf.xml:27475:         type="ims,ia"
+./system/etc/apns-conf.xml:27520:    <apn carrier="Alaskacomm IMS"
+./system/etc/apns-conf.xml:27524:         type="ims,ia"
+./system/etc/apns-conf.xml:27567:    <apn carrier="Alltel2 IMS"
+./system/etc/apns-conf.xml:27571:         type="ims,ia"
+./system/etc/apns-conf.xml:27616:    <apn carrier="Pioneer IMS"
+./system/etc/apns-conf.xml:27619:         apn="IMS"
+./system/etc/apns-conf.xml:27620:         type="ims,ia"
+./system/etc/apns-conf.xml:27663:    <apn carrier="Gci IMS"
+./system/etc/apns-conf.xml:27667:         type="ims,ia"
+./system/etc/apns-conf.xml:27710:    <apn carrier="Cellcom IMS"
+./system/etc/apns-conf.xml:27713:         apn="IMS"
+./system/etc/apns-conf.xml:27714:         type="ims,ia"
+./system/etc/apns-conf.xml:27757:    <apn carrier="Appalachian IMS"
+./system/etc/apns-conf.xml:27760:         apn="IMS"
+./system/etc/apns-conf.xml:27761:         type="ims,ia"
+./system/etc/apns-conf.xml:27805:    <apn carrier="Nepa IMS"
+./system/etc/apns-conf.xml:27809:         type="ims,ia"
+./system/etc/apns-conf.xml:27852:    <apn carrier="Midrivers IMS"
+./system/etc/apns-conf.xml:27855:         apn="IMS"
+./system/etc/apns-conf.xml:27856:         type="ims,ia"
+./system/etc/apns-conf.xml:27899:    <apn carrier="Coppervalley IMS"
+./system/etc/apns-conf.xml:27902:         apn="IMS"
+./system/etc/apns-conf.xml:27903:         type="ims,ia"
+./system/etc/apns-conf.xml:27946:    <apn carrier="Custer IMS"
+./system/etc/apns-conf.xml:27949:         apn="IMS"
+./system/etc/apns-conf.xml:27950:         type="ims,ia"
+./system/etc/apns-conf.xml:27993:    <apn carrier="Syringa IMS"
+./system/etc/apns-conf.xml:27997:         type="ims,ia"
+./system/etc/apns-conf.xml:28040:    <apn carrier="Southcentral IMS"
+./system/etc/apns-conf.xml:28044:         type="ims,ia"
+./system/etc/apns-conf.xml:28087:    <apn carrier="Snakeriver IMS"
+./system/etc/apns-conf.xml:28091:         type="ims,ia"
+./system/etc/apns-conf.xml:28134:    <apn carrier="Silverstar IMS"
+./system/etc/apns-conf.xml:28138:         type="ims,ia"
+./system/etc/apns-conf.xml:28181:    <apn carrier="Nntcwire IMS"
+./system/etc/apns-conf.xml:28185:         type="ims,ia"
+./system/etc/apns-conf.xml:28228:    <apn carrier="Strata IMS"
+./system/etc/apns-conf.xml:28231:         apn="IMS"
+./system/etc/apns-conf.xml:28232:         type="ims,ia"
+./system/etc/apns-conf.xml:28275:    <apn carrier="Thumb IMS"
+./system/etc/apns-conf.xml:28278:         apn="IMS"
+./system/etc/apns-conf.xml:28279:         type="ims,ia"
+./system/etc/apns-conf.xml:28322:    <apn carrier="Elementmobile IMS"
+./system/etc/apns-conf.xml:28326:         type="ims,ia"
+./system/etc/apns-conf.xml:28370:    <apn carrier="Nextech IMS"
+./system/etc/apns-conf.xml:28374:         type="ims,ia"
+./system/etc/apns-conf.xml:28417:    <apn carrier="Sprocket IMS"
+./system/etc/apns-conf.xml:28420:         apn="IMS"
+./system/etc/apns-conf.xml:28421:         type="ims,ia"
+./system/etc/apns-conf.xml:28460:    <apn carrier="Pinebelt IMS"
+./system/etc/apns-conf.xml:28464:         type="ims,ia"
+./system/etc/apns-conf.xml:28522:    <apn carrier="Walnut Creek 311278 IMS"
+./system/etc/apns-conf.xml:28525:         apn="IMS"
+./system/etc/apns-conf.xml:28526:         type="ims,ia"
+./system/etc/apns-conf.xml:28596:    <apn carrier="Walnut Creek 311279 IMS"
+./system/etc/apns-conf.xml:28599:         apn="IMS"
+./system/etc/apns-conf.xml:28600:         type="ims,ia"
+./system/etc/apns-conf.xml:28650:    <apn carrier="Leaco IMS"
+./system/etc/apns-conf.xml:28654:         type="ims,ia"
+./system/etc/apns-conf.xml:28697:    <apn carrier="Illinois IMS"
+./system/etc/apns-conf.xml:28701:         type="ims,ia"
+./system/etc/apns-conf.xml:28753:    <apn carrier="Nemont IMS"
+./system/etc/apns-conf.xml:28756:         apn="IMS"
+./system/etc/apns-conf.xml:28757:         type="ims,ia"
+./system/etc/apns-conf.xml:28798:    <apn carrier="Triangle IMS"
+./system/etc/apns-conf.xml:28801:         apn="IMS"
+./system/etc/apns-conf.xml:28802:         type="ims,ia"
+./system/etc/apns-conf.xml:28865:    <apn carrier="Ericsson Test-SIM IMS"
+./system/etc/apns-conf.xml:28868:         apn="IMS"
+./system/etc/apns-conf.xml:28869:         type="ims,ia"
+./system/etc/apns-conf.xml:28919:    <apn carrier="Chatmobrsa2 IMS"
+./system/etc/apns-conf.xml:28923:         type="ims,ia"
+./system/etc/apns-conf.xml:28967:    <apn carrier="NW IMS"
+./system/etc/apns-conf.xml:28970:         apn="IMS"
+./system/etc/apns-conf.xml:28971:         type="ims,ia"
+./system/etc/apns-conf.xml:29015:    <apn carrier="Chatmobrsa1 IMS"
+./system/etc/apns-conf.xml:29019:         type="ims,ia"
+./system/etc/apns-conf.xml:29063:    <apn carrier="Bluegrass IMS"
+./system/etc/apns-conf.xml:29066:         apn="IMS"
+./system/etc/apns-conf.xml:29067:         type="ims,ia"
+./system/etc/apns-conf.xml:29110:    <apn carrier="Ptci IMS"
+./system/etc/apns-conf.xml:29114:         type="ims,ia"
+./system/etc/apns-conf.xml:29180:    <apn carrier="Verizon IMS"
+./system/etc/apns-conf.xml:29183:         apn="IMS"
+./system/etc/apns-conf.xml:29184:         type="ims,ia"
+./system/etc/apns-conf.xml:29220:         type="default,mms,dun,supl,fota,cbs,ims"
+./system/etc/apns-conf.xml:29280:    <apn carrier="Xfinity Mobile IMS"
+./system/etc/apns-conf.xml:29283:         apn="IMS"
+./system/etc/apns-conf.xml:29284:         type="ims,ia"
+./system/etc/apns-conf.xml:29321:         type="default,mms,dun,supl,fota,cbs,ims"
+./system/etc/apns-conf.xml:29385:    <apn carrier="Tracfone IMS"
+./system/etc/apns-conf.xml:29388:         apn="IMS"
+./system/etc/apns-conf.xml:29389:         type="ims,ia"
+./system/etc/apns-conf.xml:29428:         type="default,mms,dun,supl,fota,cbs,ims"
+./system/etc/apns-conf.xml:29467:    <apn carrier="Gsc IMS"
+./system/etc/apns-conf.xml:29471:         type="ims,ia"
+./system/etc/apns-conf.xml:29514:    <apn carrier="Cox IMS"
+./system/etc/apns-conf.xml:29518:         type="ims,ia"
+./system/etc/apns-conf.xml:29561:    <apn carrier="Srtcomm IMS"
+./system/etc/apns-conf.xml:29565:         type="ims,ia"
+./system/etc/apns-conf.xml:29610:    <apn carrier="Cellcom IMS"
+./system/etc/apns-conf.xml:29613:         apn="IMS"
+./system/etc/apns-conf.xml:29614:         type="ims,ia"
+./system/etc/apns-conf.xml:29657:    <apn carrier="Chariton IMS"
+./system/etc/apns-conf.xml:29660:         apn="IMS"
+./system/etc/apns-conf.xml:29661:         type="ims,ia"
+./system/etc/apns-conf.xml:29705:    <apn carrier="Custer IMS"
+./system/etc/apns-conf.xml:29708:         apn="IMS"
+./system/etc/apns-conf.xml:29709:         type="ims,ia"
+./system/etc/apns-conf.xml:29752:    <apn carrier="Chatmobility IMS"
+./system/etc/apns-conf.xml:29755:         apn="IMS"
+./system/etc/apns-conf.xml:29756:         type="ims,ia"
+./system/etc/sysconfig/qti_whitelist.xml:38:    <allow-in-power-save package="com.qualcomm.qti.ims" />
+./system/etc/sysconfig/qti_whitelist.xml:69:    <hidden-api-whitelisted-app package="org.codeaurora.ims" />
+./system/etc/sysconfig/qti_whitelist.xml:70:    <hidden-api-whitelisted-app package="com.qualcomm.qti.ims" />
+./system/etc/sysconfig/google.xml:51:         reliably receive IMS messages. -->
+./system/etc/sysconfig/google.xml:52:    <allow-in-power-save package="com.google.android.ims" />
+./system/etc/sysconfig/google.xml:53:    <allow-in-data-usage-save package="com.google.android.ims" />
+Binary file ./system/app/Traceur/Traceur.apk matches
+Binary file ./system/app/LatinImeGoogle/oat/arm64/LatinImeGoogle.odex matches
+Binary file ./system/app/LatinImeGoogle/oat/arm64/LatinImeGoogle.vdex matches
+Binary file ./system/app/LatinImeGoogle/LatinImeGoogle.apk matches
+Binary file ./system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk matches
+Binary file ./system/app/WallpaperBackup/oat/arm64/WallpaperBackup.odex matches
+Binary file ./system/app/KeyChain/oat/arm64/KeyChain.odex matches
+Binary file ./system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk matches
+Binary file ./system/app/3c_main/3c_main.apk matches
+Binary file ./system/app/NfcSetup/NfcSetup.apk matches
+Binary file ./system/app/talkback/talkback.apk matches
+Binary file ./system/app/ProgramMenu/ProgramMenu.apk matches
+Binary file ./system/app/GoogleContacts/GoogleContacts.apk matches
+Binary file ./system/app/Chrome/Chrome.apk matches
+Binary file ./system/app/NfcNci/NfcNci.apk matches
+Binary file ./system/app/GuideMe/GuideMe.apk matches
+Binary file ./system/app/CalendarGoogle/CalendarGoogle.apk matches
+Binary file ./system/app/Messages/Messages.apk matches
+Binary file ./system/app/Maps/Maps.apk matches
+Binary file ./system/app/TimeWeather/TimeWeather.apk matches
+Binary file ./system/app/Gmail2/Gmail2.apk matches
+Binary file ./system/app/LauncherConfig/LauncherConfig.apk matches
+Binary file ./system/app/YouTube/YouTube.apk matches
+Binary file ./system/app/Bluetooth/Bluetooth.apk matches
+Binary file ./system/app/GoogleTTS/GoogleTTS.apk matches
+Binary file ./system/lib64/lib-imsvtutils.so matches
+Binary file ./system/lib64/android.hardware.audio.effect@4.0.so matches
+Binary file ./system/lib64/vendor.qti.ims.rcsconfig@1.0.so matches
+Binary file ./system/lib64/vendor.qti.hardware.radio.ims@1.3.so matches
+Binary file ./system/lib64/libLLVM_android.so matches
+Binary file ./system/lib64/liblog.so matches
+Binary file ./system/lib64/lib-imsvt.so matches
+Binary file ./system/lib64/vendor.qti.hardware.radio.ims@1.2.so matches
+Binary file ./system/lib64/lib-imscamera.so matches
+Binary file ./system/lib64/vendor.qti.hardware.radio.ims@1.1.so matches
+Binary file ./system/lib64/vendor.qti.hardware.radio.ims@1.4.so matches
+Binary file ./system/lib64/librcc.so matches
+Binary file ./system/lib64/libimsmedia_jni.so matches
+Binary file ./system/lib64/libimscamera_jni.so matches
+Binary file ./system/lib64/vendor.qti.hardware.radio.ims@1.0.so matches
+Binary file ./system/lib64/lib-imsvideocodec.so matches
+Binary file ./system/lib64/lib-imsvtextutils.so matches
+./system/build.prop:31:import /oem/oem.prop persist.vendor.ims.dropset_feature
+Binary file ./system/media/audio/alarms/Krypton.ogg matches
+Binary file ./system/media/audio/ringtones/Modular.ogg matches
+Binary file ./system/media/audio/ringtones/Hello.ogg matches
+Binary file ./system/media/wallpapers/default_moto_wallpaper.jpg matches
+Binary file ./system/framework/boot-ext.vdex matches
+Binary file ./system/framework/oat/arm/telecom.odex matches
+Binary file ./system/framework/oat/arm/input.odex matches
+Binary file ./system/framework/oat/arm/com.android.future.usb.accessory.odex matches
+Binary file ./system/framework/oat/arm/monkey.odex matches
+Binary file ./system/framework/oat/arm/com.google.android.maps.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.fingerprint-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/com.android.mediadrm.signer.odex matches
+Binary file ./system/framework/oat/arm/am.odex matches
+Binary file ./system/framework/oat/arm/dpm.odex matches
+Binary file ./system/framework/oat/arm/qti-telephony-common.odex matches
+Binary file ./system/framework/oat/arm/content.odex matches
+Binary file ./system/framework/oat/arm/com.qti.location.sdk.odex matches
+Binary file ./system/framework/oat/arm/qcrilhook.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.frameworks.core.addon.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.alarm-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.latency-V2.0-java.odex matches
+Binary file ./system/framework/oat/arm/com.nxp.nfc.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.android.dropboxhelper.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.android.settings.shared.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.motosignature.odex matches
+Binary file ./system/framework/oat/arm/locksettings.odex matches
+Binary file ./system/framework/oat/arm/com.qti.snapdragon.sdk.display.odex matches
+Binary file ./system/framework/oat/arm/svc.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.camerabgproc.odex matches
+Binary file ./system/framework/oat/arm/dolby_dax.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.0-java.vdex matches
+Binary file ./system/framework/oat/arm/bu.odex matches
+Binary file ./system/framework/oat/arm/ConnectivityExt.odex matches
+Binary file ./system/framework/oat/arm/appwidget.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.data.dynamicdds-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/com.motorola.android.subsidyutils.odex matches
+Binary file ./system/framework/oat/arm/com.android.media.remotedisplay.odex matches
+Binary file ./system/framework/oat/arm/requestsync.odex matches
+Binary file ./system/framework/oat/arm/com.gsma.services.nfc.odex matches
+Binary file ./system/framework/oat/arm/uiautomator.odex matches
+Binary file ./system/framework/oat/arm/qti-telephony-common.vdex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.factory-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/media_cmd.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.soter-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/hid.odex matches
+Binary file ./system/framework/oat/arm/com.google.android.dialer.support.odex matches
+Binary file ./system/framework/oat/arm/bmgr.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.voiceprint-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/vr.odex matches
+Binary file ./system/framework/oat/arm/org.apache.http.legacy.boot.odex matches
+Binary file ./system/framework/oat/arm/sm.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.data.latency-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/android.test.mock.odex matches
+Binary file ./system/framework/oat/arm/vendor.qti.hardware.sensorscalibrate-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm/android.test.runner.odex matches
+Binary file ./system/framework/oat/arm/javax.obex.odex matches
+Binary file ./system/framework/oat/arm/vendor.egistec.hardware.fingerprint-V2.0-java.odex matches
+Binary file ./system/framework/oat/arm/QtiTelephonyServicelibrary.odex matches
+Binary file ./system/framework/oat/arm64/telecom.odex matches
+Binary file ./system/framework/oat/arm64/input.odex matches
+Binary file ./system/framework/oat/arm64/com.android.future.usb.accessory.odex matches
+Binary file ./system/framework/oat/arm64/monkey.odex matches
+Binary file ./system/framework/oat/arm64/com.google.android.maps.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.fingerprint-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/com.android.mediadrm.signer.odex matches
+Binary file ./system/framework/oat/arm64/am.odex matches
+Binary file ./system/framework/oat/arm64/dpm.odex matches
+Binary file ./system/framework/oat/arm64/qti-telephony-common.odex matches
+Binary file ./system/framework/oat/arm64/content.odex matches
+Binary file ./system/framework/oat/arm64/com.qti.location.sdk.odex matches
+Binary file ./system/framework/oat/arm64/qcrilhook.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.frameworks.core.addon.odex matches
+Binary file ./system/framework/oat/arm64/ethernet-service.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.alarm-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.latency-V2.0-java.odex matches
+Binary file ./system/framework/oat/arm64/com.nxp.nfc.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.android.dropboxhelper.odex matches
+Binary file ./system/framework/oat/arm64/wifi-service.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/services.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.android.settings.shared.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.motosignature.odex matches
+Binary file ./system/framework/oat/arm64/services.vdex matches
+Binary file ./system/framework/oat/arm64/locksettings.odex matches
+Binary file ./system/framework/oat/arm64/com.qti.snapdragon.sdk.display.odex matches
+Binary file ./system/framework/oat/arm64/wifi-service.vdex matches
+Binary file ./system/framework/oat/arm64/svc.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.camerabgproc.odex matches
+Binary file ./system/framework/oat/arm64/dolby_dax.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.0-java.vdex matches
+Binary file ./system/framework/oat/arm64/bu.odex matches
+Binary file ./system/framework/oat/arm64/ConnectivityExt.odex matches
+Binary file ./system/framework/oat/arm64/com.android.location.provider.odex matches
+Binary file ./system/framework/oat/arm64/appwidget.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.data.dynamicdds-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/com.motorola.android.subsidyutils.odex matches
+Binary file ./system/framework/oat/arm64/com.android.media.remotedisplay.odex matches
+Binary file ./system/framework/oat/arm64/requestsync.odex matches
+Binary file ./system/framework/oat/arm64/com.gsma.services.nfc.odex matches
+Binary file ./system/framework/oat/arm64/uiautomator.odex matches
+Binary file ./system/framework/oat/arm64/qti-telephony-common.vdex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.factory-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/media_cmd.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.soter-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/hid.odex matches
+Binary file ./system/framework/oat/arm64/com.google.android.dialer.support.odex matches
+Binary file ./system/framework/oat/arm64/bmgr.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.voiceprint-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/vr.odex matches
+Binary file ./system/framework/oat/arm64/org.apache.http.legacy.boot.odex matches
+Binary file ./system/framework/oat/arm64/sm.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.data.latency-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/android.test.mock.odex matches
+Binary file ./system/framework/oat/arm64/vendor.qti.hardware.sensorscalibrate-V1.0-java.odex matches
+Binary file ./system/framework/oat/arm64/android.test.runner.odex matches
+Binary file ./system/framework/oat/arm64/javax.obex.odex matches
+Binary file ./system/framework/oat/arm64/vendor.egistec.hardware.fingerprint-V2.0-java.odex matches
+Binary file ./system/framework/oat/arm64/QtiTelephonyServicelibrary.odex matches
+Binary file ./system/framework/boot-ims-common.vdex matches
+Binary file ./system/framework/boot-framework.vdex matches
+Binary file ./system/framework/framework-res.apk matches
+Binary file ./system/framework/boot-telephony-common.vdex matches
+Binary file ./system/framework/arm/boot-android.test.base.oat matches
+Binary file ./system/framework/arm/boot-core-libart.oat matches
+Binary file ./system/framework/arm/boot-ims-common.oat matches
+Binary file ./system/framework/arm/boot-voip-common.oat matches
+Binary file ./system/framework/arm/boot-telephony-ext.oat matches
+Binary file ./system/framework/arm/boot-android.hidl.base-V1.0-java.oat matches
+Binary file ./system/framework/arm/boot-bouncycastle.oat matches
+Binary file ./system/framework/arm/boot-QPerformance.oat matches
+Binary file ./system/framework/arm/boot-apache-xml.oat matches
+Binary file ./system/framework/arm/boot-framework.art matches
+Binary file ./system/framework/arm/boot.oat matches
+Binary file ./system/framework/arm/boot-framework-oahl-backward-compatibility.oat matches
+Binary file ./system/framework/arm/boot-telephony-common.art matches
+Binary file ./system/framework/arm/boot-telephony-common.oat matches
+Binary file ./system/framework/arm/boot-tcmiface.oat matches
+Binary file ./system/framework/arm/boot.art matches
+Binary file ./system/framework/arm/boot-qcom.fmradio.oat matches
+Binary file ./system/framework/arm/boot-ims-common.art matches
+Binary file ./system/framework/arm/boot-core-oj.oat matches
+Binary file ./system/framework/arm/boot-framework.oat matches
+Binary file ./system/framework/arm/boot-conscrypt.oat matches
+Binary file ./system/framework/arm/boot-ext.oat matches
+Binary file ./system/framework/arm/boot-android.hidl.manager-V1.0-java.oat matches
+Binary file ./system/framework/arm/boot-okhttp.oat matches
+Binary file ./system/framework/arm/boot-UxPerformance.oat matches
+Binary file ./system/framework/arm64/boot-android.test.base.oat matches
+Binary file ./system/framework/arm64/boot-core-libart.oat matches
+Binary file ./system/framework/arm64/boot-ims-common.oat matches
+Binary file ./system/framework/arm64/boot-voip-common.oat matches
+Binary file ./system/framework/arm64/boot-telephony-ext.oat matches
+Binary file ./system/framework/arm64/boot-android.hidl.base-V1.0-java.oat matches
+Binary file ./system/framework/arm64/boot-bouncycastle.oat matches
+Binary file ./system/framework/arm64/boot-QPerformance.oat matches
+Binary file ./system/framework/arm64/boot-apache-xml.oat matches
+Binary file ./system/framework/arm64/boot-framework.art matches
+Binary file ./system/framework/arm64/boot.oat matches
+Binary file ./system/framework/arm64/boot-framework-oahl-backward-compatibility.oat matches
+Binary file ./system/framework/arm64/boot-telephony-common.art matches
+Binary file ./system/framework/arm64/boot-telephony-common.oat matches
+Binary file ./system/framework/arm64/boot-tcmiface.oat matches
+Binary file ./system/framework/arm64/boot.art matches
+Binary file ./system/framework/arm64/boot-qcom.fmradio.oat matches
+Binary file ./system/framework/arm64/boot-ims-common.art matches
+Binary file ./system/framework/arm64/boot-core-oj.oat matches
+Binary file ./system/framework/arm64/boot-framework.oat matches
+Binary file ./system/framework/arm64/boot-conscrypt.oat matches
+Binary file ./system/framework/arm64/boot-ext.oat matches
+Binary file ./system/framework/arm64/boot-android.hidl.manager-V1.0-java.oat matches
+Binary file ./system/framework/arm64/boot-okhttp.oat matches
+Binary file ./system/framework/arm64/boot-UxPerformance.oat matches
+Binary file ./system/lib/libstagefright_soft_avcenc.so matches
+Binary file ./system/lib/libicui18n.so matches
+Binary file ./system/lib/lib-imsvtutils.so matches
+Binary file ./system/lib/android.hardware.audio.effect@4.0.so matches
+Binary file ./system/lib/vendor.qti.ims.rcsconfig@1.0.so matches
+Binary file ./system/lib/vendor.qti.hardware.radio.ims@1.3.so matches
+Binary file ./system/lib/libstagefright_soft_avcdec.so matches
+Binary file ./system/lib/liblog.so matches
+Binary file ./system/lib/libart.so matches
+Binary file ./system/lib/vendor.display.color@1.2.so matches
+Binary file ./system/lib/lib-imsvt.so matches
+Binary file ./system/lib/vendor.qti.hardware.radio.ims@1.2.so matches
+Binary file ./system/lib/lib-imscamera.so matches
+Binary file ./system/lib/vendor.qti.hardware.radio.ims@1.1.so matches
+Binary file ./system/lib/vendor.qti.hardware.radio.ims@1.4.so matches
+Binary file ./system/lib/librcc.so matches
+Binary file ./system/lib/libimsmedia_jni.so matches
+Binary file ./system/lib/libimscamera_jni.so matches
+Binary file ./system/lib/modules/wil6210.ko matches
+Binary file ./system/lib/vendor.qti.hardware.radio.ims@1.0.so matches
+Binary file ./system/lib/lib-imsvideocodec.so matches
+Binary file ./system/lib/lib-imsvtextutils.so matches
+./system/compatibility_matrix.xml:645:            <instance>qti.ims.connectionmanagerservice</instance>
+./system/compatibility_matrix.xml:947:        <name>vendor.qti.hardware.radio.ims</name>
+./system/compatibility_matrix.xml:1095:        <name>vendor.qti.ims.callinfo</name>
+Binary file ./system/fonts/Roboto-Regular.ttf matches
+Binary file ./system/fonts/Roboto-Thin.ttf matches
+Binary file ./system/fonts/Roboto-Black.ttf matches
+Binary file ./system/fonts/NotoColorEmoji.ttf matches
+Binary file ./system/fonts/NotoSansOriyaUI-Regular.ttf matches
+Binary file ./system/fonts/NotoSansOriya-Regular.ttf matches
+Binary file ./system/fonts/NotoSansArmenian-Bold.ttf matches
+Binary file ./system/fonts/RobotoCondensed-Bold.ttf matches
+Binary file ./system/fonts/Roboto-Bold.ttf matches
+Binary file ./system/fonts/RobotoCondensed-Light.ttf matches
+Binary file ./system/fonts/Roboto-Medium.ttf matches
+Binary file ./system/fonts/RobotoCondensed-Regular.ttf matches
+Binary file ./system/fonts/RobotoCondensed-BoldItalic.ttf matches
+Binary file ./system/fonts/NotoSerifCJK-Regular.ttc matches
+Binary file ./system/fonts/Roboto-Light.ttf matches
+Binary file ./system/fonts/RobotoCondensed-Medium.ttf matches
+Binary file ./system/priv-app/MotoDisplay/MotoDisplay.apk matches
+Binary file ./system/priv-app/3c_devicemanagement/3c_devicemanagement.apk matches
+Binary file ./system/priv-app/SetupWizardExt/SetupWizardExt.apk matches
+Binary file ./system/priv-app/MSimSettings/MSimSettings.apk matches
+Binary file ./system/priv-app/EmergencyInfo/EmergencyInfo.apk matches
+Binary file ./system/priv-app/Velvet/Velvet.apk matches
+Binary file ./system/priv-app/SettingsProvider/oat/arm64/SettingsProvider.odex matches
+Binary file ./system/priv-app/OobConfig/OobConfig.apk matches
+Binary file ./system/priv-app/DemoMode/DemoMode.apk matches
+Binary file ./system/priv-app/GoogleDialer/GoogleDialer.apk matches
+Binary file ./system/priv-app/CarrierSettingsExt/CarrierSettingsExt.apk matches
+Binary file ./system/priv-app/StorageManager/StorageManager.apk matches
+Binary file ./system/priv-app/Entitlement/Entitlement.apk matches
+Binary file ./system/priv-app/Settings/Settings.apk matches
+Binary file ./system/priv-app/TeleService/TeleService.apk matches
+Binary file ./system/priv-app/SystemUI/SystemUI.apk matches
+Binary file ./system/priv-app/SystemUI/oat/arm64/SystemUI.odex matches
+Binary file ./system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk matches
+Binary file ./system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk matches
+Binary file ./system/priv-app/Telecom/Telecom.apk matches
+Binary file ./system/priv-app/Telecom/oat/arm64/Telecom.odex matches
+Binary file ./system/priv-app/CarrierServices/CarrierServices.apk matches
+Binary file ./system/priv-app/MotoAppPremium/MotoAppPremium.apk matches
+Binary file ./system/priv-app/SetupWizard/SetupWizard.apk matches
+Binary file ./system/priv-app/3c_notification/3c_notification.apk matches
+Binary file ./system/priv-app/MotoActions/MotoActions.apk matches
+Binary file ./system/priv-app/GmsCore/GmsCore.apk matches
+Binary file ./system/priv-app/SnapdragonCamera/SnapdragonCamera.apk matches
+Binary file ./system/priv-app/VzwDM/VzwDM.apk matches
+Binary file ./system/priv-app/FilesGo/FilesGo.apk matches
+Binary file ./system/priv-app/ims/ims.apk matches
+Binary file ./system/priv-app/PAKS/PAKS.apk matches
+Binary file ./system/priv-app/ModemStatsService/ModemStatsService.apk matches
+Binary file ./system/priv-app/SprintDM/SprintDM.apk matches
+Binary file ./system/priv-app/GoogleRestore/GoogleRestore.apk matches
+Binary file ./system/priv-app/InputDevices/oat/arm64/InputDevices.odex matches
+Binary file ./system/priv-app/FusedLocation/oat/arm64/FusedLocation.odex matches
+Binary file ./system/priv-app/AttPhoneExt/AttPhoneExt.apk matches
+Binary file ./system/priv-app/AndroidPlatformServices/AndroidPlatformServices.apk matches
+Binary file ./system/priv-app/atfwd/atfwd.apk matches
+Binary file ./system/priv-app/PreloadContacts/PreloadContacts.apk matches
+Binary file ./system/priv-app/CNEService/CNEService.apk matches
+Binary file ./system/bin/wificond matches
+Binary file ./system/bin/linker matches
+Binary file ./system/bin/uncrypt matches
+Binary file ./system/bin/linker64 matches
+Binary file ./system/bin/adbd matches
+Binary file ./system/bin/mdnsd matches
+Binary file ./system/bin/tombstoned matches
+Binary file ./system/bin/update_engine matches
+./system/usr/srec/en-US/wordlist.syms:6132:IMS	6131
+Binary file ./system/usr/srec/en-US/lstm_model.uint8.data matches
+./init.environ.rc:10:    export BOOTCLASSPATH /system/framework/qtiNetworkLib.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/core-oj.jar:/system/framework/core-libart.jar:/system/framework/conscrypt.jar:/system/framework/okhttp.jar:/system/framework/bouncycastle.jar:/system/framework/apache-xml.jar:/system/framework/ext.jar:/system/framework/framework.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/android.hidl.base-V1.0-java.jar:/system/framework/android.hidl.manager-V1.0-java.jar:/system/framework/framework-oahl-backward-compatibility.jar:/system/framework/android.test.base.jar
+Binary file ./init matches
+./vendor/etc/vintf/manifest.xml:402:            <instance>qti.ims.connectionmanagerservice</instance>
+./vendor/etc/vintf/manifest.xml:404:        <fqname>@2.0::IImsCmService/qti.ims.connectionmanagerservice</fqname>
+./vendor/etc/vintf/manifest.xml:699:        <name>vendor.qti.hardware.radio.ims</name>
+./vendor/etc/vintf/manifest.xml:845:        <name>vendor.qti.ims.callinfo</name>
+Binary file ./vendor/etc/selinux/precompiled_sepolicy matches
+./vendor/etc/selinux/vendor_property_contexts:34:vendor.ims.                u:object_r:qcom_ims_prop:s0
+./vendor/etc/selinux/vendor_property_contexts:35:persist.vendor.ims.disabled       u:object_r:qcom_ims_prop:s0
+./vendor/etc/selinux/vendor_property_contexts:36:vendor.service.qti.ims.enabled    u:object_r:qcom_ims_prop:s0
+./vendor/etc/selinux/vendor_property_contexts:37:persist.vendor.ims.        u:object_r:qcom_ims_prop:s0
+./vendor/etc/selinux/vendor_hwservice_contexts:4:vendor.qti.hardware.radio.ims::IImsRadio                     u:object_r:hal_telephony_hwservice:s0
+./vendor/etc/selinux/vendor_hwservice_contexts:32:vendor.qti.ims.callinfo::IService                            u:object_r:hal_imscallinfo_hwservice:s0
+./vendor/etc/selinux/vendor_hwservice_contexts:44:com.qualcomm.qti.ims.radio::IImsRadio                        u:object_r:hal_telephony_hwservice:s0
+./vendor/etc/selinux/vendor_file_contexts:154:/(vendor|system/vendor)/bin/init\.qti\.ims\.sh		u:object_r:init-qti-ims-sh_exec:s0
+./vendor/etc/selinux/vendor_sepolicy.cil:88:(typeattributeset domain (adbd_28_0 audioserver_28_0 blkid_28_0 blkid_untrusted_28_0 bluetooth_28_0 bootanim_28_0 bootstat_28_0 bufferhubd_28_0 cameraserver_28_0 charger_28_0 clatd_28_0 cppreopts_28_0 crash_dump_28_0 dex2oat_28_0 dhcp_28_0 dnsmasq_28_0 drmserver_28_0 dumpstate_28_0 e2fs_28_0 ephemeral_app_28_0 fingerprintd_28_0 fsck_28_0 fsck_untrusted_28_0 gatekeeperd_28_0 healthd_28_0 hwservicemanager_28_0 idmap_28_0 incident_28_0 incident_helper_28_0 incidentd_28_0 init_28_0 inputflinger_28_0 install_recovery_28_0 installd_28_0 isolated_app_28_0 kernel_28_0 keystore_28_0 lmkd_28_0 logd_28_0 logpersist_28_0 mdnsd_28_0 mediacodec_28_0 mediadrmserver_28_0 mediaextractor_28_0 mediametrics_28_0 mediaprovider_28_0 mediaserver_28_0 modprobe_28_0 mtp_28_0 netd_28_0 netutils_wrapper_28_0 nfc_28_0 otapreopt_chroot_28_0 otapreopt_slot_28_0 performanced_28_0 perfprofd_28_0 platform_app_28_0 postinstall_28_0 postinstall_dexopt_28_0 ppp_28_0 preopt2cachename_28_0 priv_app_28_0 profman_28_0 racoon_28_0 radio_28_0 recovery_28_0 recovery_persist_28_0 recovery_refresh_28_0 runas_28_0 sdcardd_28_0 secure_element_28_0 servicemanager_28_0 sgdisk_28_0 shared_relro_28_0 shell_28_0 slideshow_28_0 su_28_0 surfaceflinger_28_0 system_app_28_0 system_server_28_0 tee_28_0 thermalserviced_28_0 tombstoned_28_0 toolbox_28_0 traced_probes_28_0 traceur_app_28_0 tzdatacheck_28_0 ueventd_28_0 uncrypt_28_0 untrusted_app_28_0 untrusted_app_27_28_0 untrusted_app_25_28_0 untrusted_v2_app_28_0 update_engine_28_0 update_verifier_28_0 usbd_28_0 vdc_28_0 vendor_init_28_0 vendor_shell_28_0 virtual_touchpad_28_0 vndservicemanager_28_0 vold_28_0 vold_prepare_subdirs_28_0 vr_hwc_28_0 watchdogd_28_0 webview_zygote_28_0 wificond_28_0 wpantund_28_0 zygote_28_0 dataservice_app_28_0 dpmd_28_0 dun-server_28_0 mirrorlink_28_0 vendor_mmi_sys_28_0 perfservice_28_0 qtelephony_28_0 qvrd_28_0 wfdservice_28_0 coredump_28_0 init_elabel_28_0 mmi_carrier_28_0 mods_app_28_0 hal_audio_default hal_audiocontrol_default hal_authsecret_default hal_bluetooth_default hal_bootctl_default hal_broadcastradio_default hal_camera_default hal_cas_default hal_configstore_default hal_confirmationui_default hal_contexthub_default hal_drm_default hal_dumpstate_default hal_evs_default hal_fingerprint_default hal_gatekeeper_default hal_gnss_default hal_graphics_allocator_default hal_graphics_composer_default hal_health_default hal_ir_default hal_keymaster_default hal_light_default hal_lowpan_default hal_memtrack_default hal_nfc_default hal_power_default hal_radio_config_default hal_radio_default hal_secure_element_default hal_sensors_default hal_tetheroffload_default hal_thermal_default hal_tv_cec_default hal_tv_input_default hal_usb_default hal_vehicle_default hal_vibrator_default hal_vr_default hal_wifi_default hal_wifi_hostapd_default hal_wifi_offload_default hal_wifi_supplicant_default rild vendor_modprobe adpl adsprpcd atfwd audiod bg_daemon cdsprpcd charger_monitor chre cnd diag dtsconfigurator dtseagleservice energyawareness esepmdaemon fidodaemon fm_qsoc_patches fps_hal fstman gamed hal_alarm_qti_default hal_bluetooth_qti hal_display_color_default hal_dpmQmiMgr hal_drm_clearkey hal_drm_widevine hal_esepowermanager_qti vendor_hal_factory_qti_default hal_gatekeeper_qti hal_gnss_qti hal_imsrtp hal_iop_default hal_keymaster_qti hal_mirrorlink_qti hal_neuralnetworks_default hal_perf_default hal_qdutils_disp_qti hal_qteeconnector_qti hal_rcsservice vendor_scve hal_sensorscalibrate_qti_default hal_soter_qti hal_tui_comm_qti hal_usb_gadget_qti hbtp hdcp_srm hostapd hvdcp ims imshelper_app init-qti-ims-sh qti_init_shell ipacm ipacm-diag irsc_util location location_app logdumpd mcStarter mdm_helper mdtpdaemon mdtpservice_app mlid mm-pp-daemon mm-qcamerad vendor_mmi msm_irqbalanced netmgrd nqnfcinfo vendor_pd_mapper perfdump_app vendor_per_mgr port-bridge power_off_alarm poweroffalarm_app poweroffhandler vendor_qcomsysd qdcm-ss qdma_app qdmastatsd qfp-daemon qlogd qmuxd qrtr qsee_svc_app qseeproxy qti_logkit qti qti_logkit_app qvop-daemon rfs_access RIDL rmt_storage sec_nvm secotad seemp_health_daemon sensors spdaemon ssgqmigd ssgtzd vendor_ssr_diag vendor_ssr_setup vendor_subsystem_ramdump tbaseLoader thermal-engine time_daemon timeservice_app tlocd touchfusion usb_uicc_daemon usf vendor_audioftm vm_bms vendor_vppservice wcnss_filter wcnss_service wifi_ftmd wifidisplayhalservice_qti wigighalsvc wigignpt ssg_app sysmonapp_app init-qti-fbe-sh move-widevine-data-sh move_wifi_data-sh adspd apanic aplogd batt_health charge_only erase_modemst12 ftmdaemon ftmipcd hal_imagetuner_default hal_maya_default hal_mothealth_default hal_panel_default hal_powerext_default hardware_rev init_block_perm init_dtv init_hab init_hw init_mods init_touch init_usb init_wifi kpgather log_app mbm_spy mdlog memtest mkfs mmi_boot mmi_laser mods_camd motobox sensor_hub tcmd tcmdhelp capsense_reset capsense_set_threshold wdsdaemon hal_dms_default esdpll init_time hal_motvibrator_default))
+./vendor/etc/selinux/vendor_sepolicy.cil:91:(typeattributeset file_type (adbd_exec_28_0 bootanim_exec_28_0 bootstat_exec_28_0 bufferhubd_exec_28_0 cameraserver_exec_28_0 clatd_exec_28_0 cppreopts_exec_28_0 crash_dump_exec_28_0 dex2oat_exec_28_0 dhcp_exec_28_0 dnsmasq_exec_28_0 drmserver_exec_28_0 drmserver_socket_28_0 dumpstate_exec_28_0 e2fs_exec_28_0 unlabeled_28_0 system_file_28_0 vendor_hal_file_28_0 vendor_file_28_0 vendor_app_file_28_0 vendor_configs_file_28_0 same_process_hal_file_28_0 vndk_sp_file_28_0 vendor_framework_file_28_0 vendor_overlay_file_28_0 metadata_file_28_0 vold_metadata_file_28_0 runtime_event_log_tags_file_28_0 logcat_exec_28_0 coredump_file_28_0 system_data_file_28_0 vendor_data_file_28_0 unencrypted_data_file_28_0 install_data_file_28_0 drm_data_file_28_0 adb_data_file_28_0 anr_data_file_28_0 tombstone_data_file_28_0 tombstone_wifi_data_file_28_0 apk_data_file_28_0 apk_tmp_file_28_0 apk_private_data_file_28_0 apk_private_tmp_file_28_0 dalvikcache_data_file_28_0 ota_data_file_28_0 ota_package_file_28_0 user_profile_data_file_28_0 profman_dump_data_file_28_0 resourcecache_data_file_28_0 shell_data_file_28_0 property_data_file_28_0 bootchart_data_file_28_0 heapdump_data_file_28_0 nativetest_data_file_28_0 ringtone_file_28_0 preloads_data_file_28_0 preloads_media_file_28_0 dhcp_data_file_28_0 mnt_media_rw_file_28_0 mnt_user_file_28_0 mnt_expand_file_28_0 storage_file_28_0 mnt_media_rw_stub_file_28_0 storage_stub_file_28_0 mnt_vendor_file_28_0 mnt_product_file_28_0 postinstall_mnt_dir_28_0 postinstall_file_28_0 adb_keys_file_28_0 audio_data_file_28_0 audioserver_data_file_28_0 bluetooth_data_file_28_0 bluetooth_logs_data_file_28_0 bootstat_data_file_28_0 boottrace_data_file_28_0 camera_data_file_28_0 gatekeeper_data_file_28_0 incident_data_file_28_0 keychain_data_file_28_0 keystore_data_file_28_0 media_data_file_28_0 media_rw_data_file_28_0 misc_user_data_file_28_0 net_data_file_28_0 network_watchlist_data_file_28_0 nfc_data_file_28_0 radio_data_file_28_0 recovery_data_file_28_0 shared_relro_file_28_0 systemkeys_data_file_28_0 textclassifier_data_file_28_0 trace_data_file_28_0 vpn_data_file_28_0 wifi_data_file_28_0 zoneinfo_data_file_28_0 vold_data_file_28_0 perfprofd_data_file_28_0 tee_data_file_28_0 update_engine_data_file_28_0 update_engine_log_data_file_28_0 method_trace_data_file_28_0 app_data_file_28_0 system_app_data_file_28_0 cache_file_28_0 cache_backup_file_28_0 cache_private_backup_file_28_0 cache_recovery_file_28_0 efs_file_28_0 wallpaper_file_28_0 shortcut_manager_icons_28_0 icon_file_28_0 asec_apk_file_28_0 asec_public_file_28_0 asec_image_file_28_0 backup_data_file_28_0 bluetooth_efs_file_28_0 fingerprintd_data_file_28_0 fingerprint_vendor_data_file_28_0 app_fuse_file_28_0 adbd_socket_28_0 bluetooth_socket_28_0 dnsproxyd_socket_28_0 dumpstate_socket_28_0 fwmarkd_socket_28_0 lmkd_socket_28_0 logd_socket_28_0 logdr_socket_28_0 logdw_socket_28_0 mdns_socket_28_0 mdnsd_socket_28_0 misc_logd_file_28_0 mtpd_socket_28_0 netd_socket_28_0 property_socket_28_0 racoon_socket_28_0 rild_socket_28_0 rild_debug_socket_28_0 system_wpa_socket_28_0 system_ndebug_socket_28_0 tombstoned_crash_socket_28_0 tombstoned_java_trace_socket_28_0 tombstoned_intercept_socket_28_0 traced_producer_socket_28_0 traced_consumer_socket_28_0 uncrypt_socket_28_0 wpa_socket_28_0 zygote_socket_28_0 gps_control_28_0 pdx_display_dir_28_0 pdx_performance_dir_28_0 pdx_bufferhub_dir_28_0 pdx_display_client_endpoint_socket_28_0 pdx_display_manager_endpoint_socket_28_0 pdx_display_screenshot_endpoint_socket_28_0 pdx_display_vsync_endpoint_socket_28_0 pdx_performance_client_endpoint_socket_28_0 pdx_bufferhub_client_endpoint_socket_28_0 file_contexts_file_28_0 mac_perms_file_28_0 property_contexts_file_28_0 seapp_contexts_file_28_0 sepolicy_file_28_0 service_contexts_file_28_0 nonplat_service_contexts_file_28_0 hwservice_contexts_file_28_0 vndservice_contexts_file_28_0 audiohal_data_file_28_0 fingerprintd_exec_28_0 fsck_exec_28_0 gatekeeperd_exec_28_0 healthd_exec_28_0 hwservicemanager_exec_28_0 idmap_exec_28_0 init_exec_28_0 inputflinger_exec_28_0 install_recovery_exec_28_0 installd_exec_28_0 keystore_exec_28_0 lmkd_exec_28_0 logd_exec_28_0 mediacodec_exec_28_0 mediadrmserver_exec_28_0 mediaextractor_exec_28_0 mediametrics_exec_28_0 mediaserver_exec_28_0 mtp_exec_28_0 netd_exec_28_0 netutils_wrapper_exec_28_0 otapreopt_chroot_exec_28_0 otapreopt_slot_exec_28_0 performanced_exec_28_0 perfprofd_exec_28_0 ppp_exec_28_0 preopt2cachename_exec_28_0 profman_exec_28_0 racoon_exec_28_0 recovery_persist_exec_28_0 recovery_refresh_exec_28_0 runas_exec_28_0 sdcardd_exec_28_0 servicemanager_exec_28_0 sgdisk_exec_28_0 shell_exec_28_0 su_exec_28_0 thermalserviced_exec_28_0 tombstoned_exec_28_0 toolbox_exec_28_0 tzdatacheck_exec_28_0 uncrypt_exec_28_0 update_engine_exec_28_0 update_verifier_exec_28_0 usbd_exec_28_0 vdc_exec_28_0 vendor_shell_exec_28_0 vendor_toolbox_exec_28_0 virtual_touchpad_exec_28_0 vold_exec_28_0 vold_prepare_subdirs_exec_28_0 vr_hwc_exec_28_0 webview_zygote_exec_28_0 wificond_exec_28_0 wpantund_exec_28_0 zygote_exec_28_0 dpmtcm_socket_28_0 wfdservice_exec_28_0 coredump_exec_28_0 log_app_data_file_28_0 smartcard_data_file_28_0 misc_ne_data_file_28_0 greybus_fw_data_file_28_0 ffu_data_file_28_0 adspd_data_file_28_0 app_dump_data_file_28_0 elabel_data_file_28_0 init_elabel_exec_28_0 hostapd_data_file wpa_data_file hal_audio_default_exec hal_audio_default_tmpfs hal_audiocontrol_default_exec hal_audiocontrol_default_tmpfs hal_authsecret_default_exec hal_authsecret_default_tmpfs hal_bluetooth_default_exec hal_bluetooth_default_tmpfs hal_bootctl_default_exec hal_bootctl_default_tmpfs hal_broadcastradio_default_exec hal_broadcastradio_default_tmpfs hal_camera_default_exec hal_camera_default_tmpfs hal_cas_default_exec hal_cas_default_tmpfs hal_configstore_default_exec hal_configstore_default_tmpfs hal_confirmationui_default_exec hal_confirmationui_default_tmpfs hal_contexthub_default_exec hal_contexthub_default_tmpfs hal_drm_default_exec hal_drm_default_tmpfs hal_dumpstate_default_exec hal_dumpstate_default_tmpfs hal_evs_default_exec hal_evs_default_tmpfs hal_fingerprint_default_exec hal_fingerprint_default_tmpfs hal_gatekeeper_default_exec hal_gatekeeper_default_tmpfs hal_gnss_default_exec hal_gnss_default_tmpfs hal_graphics_allocator_default_exec hal_graphics_allocator_default_tmpfs hal_graphics_composer_default_exec hal_graphics_composer_default_tmpfs hal_health_default_exec hal_health_default_tmpfs hal_ir_default_exec hal_ir_default_tmpfs hal_keymaster_default_exec hal_keymaster_default_tmpfs hal_light_default_exec hal_light_default_tmpfs hal_lowpan_default_exec hal_lowpan_default_tmpfs hal_memtrack_default_exec hal_memtrack_default_tmpfs hal_nfc_default_exec hal_nfc_default_tmpfs mediacodec_tmpfs hal_power_default_exec hal_power_default_tmpfs hal_radio_config_default_exec hal_radio_config_default_tmpfs hal_radio_default_exec hal_radio_default_tmpfs hal_secure_element_default_exec hal_secure_element_default_tmpfs hal_sensors_default_exec hal_sensors_default_tmpfs hal_tetheroffload_default_exec hal_tetheroffload_default_tmpfs hal_thermal_default_exec hal_thermal_default_tmpfs hal_tv_cec_default_exec hal_tv_cec_default_tmpfs hal_tv_input_default_exec hal_tv_input_default_tmpfs hal_usb_default_exec hal_usb_default_tmpfs hal_vehicle_default_exec hal_vehicle_default_tmpfs hal_vibrator_default_exec hal_vibrator_default_tmpfs hal_vr_default_exec hal_vr_default_tmpfs hal_wifi_default_exec hal_wifi_default_tmpfs hal_wifi_hostapd_default_exec hal_wifi_hostapd_default_tmpfs hal_wifi_offload_default_exec hal_wifi_offload_default_tmpfs hal_wifi_supplicant_default_exec hal_wifi_supplicant_default_tmpfs rild_exec rild_tmpfs tee_exec tee_tmpfs vndservicemanager_exec vndservicemanager_tmpfs adpl_exec adpl_tmpfs adsprpcd_exec adsprpcd_tmpfs atfwd_exec atfwd_tmpfs audiod_exec audiod_tmpfs bg_daemon_exec bg_daemon_tmpfs sapd_exec btsnoop_exec btnvtool_exec fmhal_service_exec cdsprpcd_exec cdsprpcd_tmpfs charger_monitor_exec charger_monitor_tmpfs chre_exec chre_tmpfs cnd_exec cnd_tmpfs diag_exec dtsconfigurator_exec dtsconfigurator_tmpfs dtseagleservice_exec dtseagleservice_tmpfs energyawareness_exec energyawareness_tmpfs esepmdaemon_exec esepmdaemon_tmpfs fidodaemon_exec fidodaemon_tmpfs firmware_file vendor_firmware_file qmuxd_socket netmgrd_socket vendor_qti_data_file pps_socket qdcmsocket_socket cnd_socket cnd_data_file chre_socket netmgrd_data_file persist_file persist_bluetooth_file persist_data_file persist_drm_file data_qtee_file vendor_persist_mmi_file persist_misc_file persist_bms_file persist_secnvm_file persist_hvdcp_file msm_irqbalance_socket sensors_socket sensors_persist_file thermal_socket rfs_system_file rfs_file rfs_shared_hlos_file persist_rfs_file persist_rfs_shared_hlos_file data_ad_calib_cfg mpctl_socket mpctl_data_file lm_data_file gamed_socket iop_socket iop_data_file ims_socket mlid_socket ssgqmig_socket ssgtzd_socket location_data_file location_socket location_app_data_file qlogd_socket display_vendor_data_file persist_display_file ipacm_socket ipa_vendor_data_file vendor_audio_data_file vendor_tombstone_data_file port_bridge_data_file bt_firmware_file vendor_mmi_socket hbtp_cfg_file hbtp_log_file persist_usf_file qfp-daemon_data_file persist_qti_fp_file qsee_svc_app_data_file imshelper_app_data_file RIDL_data_file RIDL_socket qti_logkit_priv_data_file qti_logkit_pub_data_file qti_logkit_priv_socket qti_logkit_pub_socket adsprpcd_file mdtp_svc_app_data_file regionalization_file vendor_carrier_file swap_data_file dynamic_nv_data_file wifi_vendor_data_file wifi_vendor_wpa_socket wifi_vendor_hostapd_socket hostapd_socket mediadrm_vendor_data_file wififtmd_socket persist_alarm_file persist_time_file nfc_vendor_data_file vendor_qdma_data_file qdma_socket vendor_radio_data_file vendor_mbn_data_file vendor_vpp_data_file persist_vpp_file vendor_camera_data_file vendor_media_data_file wigignpt_socket wigig_hostapd_socket data_tzstorage_file tlocd_data_file data_qsee_file vendor_tui_data_file vendor_bt_data_file vendor_fm_data_file ramdump_vendor_data_file vendor_ramdump_data_file vendor_mdmhelperdata_data_file hal_neuralnetworks_data_file vendor_scve_data_file time_data_file fm_qsoc_patches_exec fps_hal_exec fps_hal_tmpfs fstman_exec fstman_tmpfs gamed_exec gamed_tmpfs hal_alarm_qti_default_exec hal_alarm_qti_default_tmpfs hal_bluetooth_qti_exec hal_bluetooth_qti_tmpfs hal_display_color_default_exec hal_display_color_default_tmpfs hal_dpmQmiMgr_exec hal_dpmQmiMgr_tmpfs hal_drm_clearkey_exec hal_drm_clearkey_tmpfs hal_drm_widevine_exec hal_drm_widevine_tmpfs hal_esepowermanager_qti_exec hal_esepowermanager_qti_tmpfs vendor_hal_factory_qti_default_exec vendor_hal_factory_qti_default_tmpfs hal_gatekeeper_qti_exec hal_gatekeeper_qti_tmpfs hal_gnss_qti_exec hal_gnss_qti_tmpfs hal_imsrtp_exec hal_imsrtp_tmpfs hal_iop_default_exec hal_iop_default_tmpfs hal_keymaster_qti_exec hal_keymaster_qti_tmpfs hal_mirrorlink_qti_exec hal_mirrorlink_qti_tmpfs hal_neuralnetworks_default_exec hal_neuralnetworks_default_tmpfs hal_perf_default_exec hal_perf_default_tmpfs hal_qdutils_disp_qti_exec hal_qdutils_disp_qti_tmpfs hal_qteeconnector_qti_exec hal_qteeconnector_qti_tmpfs hal_rcsservice_exec hal_rcsservice_tmpfs vendor_scve_exec vendor_scve_tmpfs hal_sensorscalibrate_qti_default_exec hal_sensorscalibrate_qti_default_tmpfs hal_soter_qti_exec hal_soter_qti_tmpfs hal_tui_comm_qti_exec hal_tui_comm_qti_tmpfs hal_usb_gadget_qti_exec hal_usb_gadget_qti_tmpfs hbtp_exec hbtp_tmpfs hdcp_srm_exec hdcp_srm_tmpfs hostapd_exec hvdcp_exec hvdcp_tmpfs ims_exec ims_tmpfs imshelper_app_tmpfs init-qti-ims-sh_exec init-qti-ims-sh_tmpfs qti_init_shell_exec qti_init_shell_tmpfs ipacm_exec ipacm-diag_exec ipacm_tmpfs ipacm-diag_tmpfs irsc_util_exec irsc_util_tmpfs location_exec location_tmpfs location_app_tmpfs logdumpd_exec logdumpd_tmpfs mcStarter_exec mcStarter_tmpfs mdm_helper_exec mdm_helper_tmpfs mdtpdaemon_exec mdtpdaemon_tmpfs mdtpservice_app_tmpfs mlid_exec mlid_tmpfs mm-pp-daemon_exec mm-pp-daemon_tmpfs mm-qcamerad_exec mm-qcamerad_tmpfs vendor_mmi_exec vendor_mmi_tmpfs msm_irqbalanced_exec msm_irqbalanced_tmpfs netmgrd_exec netmgrd_tmpfs nqnfcinfo_exec nqnfcinfo_tmpfs vendor_pd_mapper_exec vendor_pd_mapper_tmpfs perfdump_app_tmpfs vendor_per_mgr_exec vendor_per_mgr_tmpfs port-bridge_exec port-bridge_tmpfs power_off_alarm_exec power_off_alarm_tmpfs poweroffalarm_app_tmpfs poweroffhandler_exec poweroffhandler_tmpfs vendor_qcomsysd_exec vendor_qcomsysd_tmpfs qdcm-ss_exec qdcm-ss_tmpfs qdma_app_tmpfs qdmastatsd_exec qdmastatsd_tmpfs qfp-daemon_exec qfp-daemon_tmpfs qlogd_exec qlogd_tmpfs qmuxd_exec qmuxd_tmpfs qrtr_exec qrtr_tmpfs qsee_svc_app_tmpfs qseeproxy_exec qseeproxy_tmpfs qti_logkit_tmpfs qti_logkit_exec qti_exec qti_tmpfs qti_logkit_app_tmpfs qvop-daemon_exec qvop-daemon_tmpfs rfs_access_exec rfs_access_tmpfs RIDL_exec RIDL_tmpfs rmt_storage_exec rmt_storage_tmpfs sec_nvm_exec sec_nvm_tmpfs secotad_exec secotad_tmpfs seemp_health_daemon_exec seemp_health_daemon_tmpfs sensors_exec sensors_tmpfs spdaemon_exec spdaemon_tmpfs ssgqmigd_exec ssgqmigd_tmpfs ssgtzd_exec ssgtzd_tmpfs vendor_ssr_diag_exec vendor_ssr_diag_tmpfs vendor_ssr_setup_exec vendor_ssr_setup_tmpfs vendor_subsystem_ramdump_exec vendor_subsystem_ramdump_tmpfs tbaseLoader_exec tbaseLoader_tmpfs thermal-engine_exec thermal-engine_tmpfs time_daemon_exec vendor_time_data_file time_daemon_tmpfs timeservice_app_tmpfs tlocd_exec tlocd_tmpfs touchfusion_exec touchfusion_tmpfs usb_uicc_daemon_exec usb_uicc_daemon_tmpfs usf_exec usf_tmpfs vendor_audioftm_exec vendor_audioftm_tmpfs vendor_init_exec vm_bms_exec vm_bms_tmpfs vendor_vppservice_exec vendor_vppservice_tmpfs wcnss_filter_exec wcnss_filter_tmpfs wcnss_service_exec wcnss_service_tmpfs wifi_ftmd_exec wifi_ftmd_tmpfs wifidisplayhalservice_qti_exec wifidisplayhalservice_qti_tmpfs wigighalsvc_exec wigighalsvc_tmpfs wigignpt_exec wigignpt_tmpfs ssg_app_tmpfs sysmonapp_app_tmpfs init-qti-fbe-sh_exec init-qti-fbe-sh_tmpfs move-widevine-data-sh_exec move-widevine-data-sh_tmpfs move_wifi_data-sh_exec move_wifi_data-sh_tmpfs adspd_exec adspd_tmpfs apanic_exec apanic_tmpfs aplogd_exec aplogd_tmpfs batt_health_exec batt_health_tmpfs charge_only_exec charge_only_tmpfs erase_modemst12_exec erase_modemst12_tmpfs modem_file cutback_socket adspd_socket tcmdhelp_socket localtcmd_socket batchtcmd_socket mdlog_socket tpapi_tmp adb_log_data_file aplog_data_file mdlog_data_file dropbox_data_file panic_data_file bugreport_data_file sensorhub_data_file imager_data_file cutback_data_file dbvc_data_file chargeonly_data_file persist_chargeonly_file hwrev_data_file persist_omadm_file pds_batt_file pds_public_file pds_att_omadm_file pds_hiddenmenu_file pds_omadm_file pds_telephony_file pds_usc_dm_file pds_sds_file pds_oma_file persist_paks persist_antcap_file power_log_file fpc_data_file fpc_socket fps_data_file persist_audio_file persist_factory_file persist_modem_file carrier_log_file iplog_data_file vendor_memtest_data_file ftmdaemon_exec ftmdaemon_tmpfs ftmipcd_exec ftmipcd_tmpfs hal_imagetuner_default_exec hal_imagetuner_default_tmpfs hal_maya_default_exec hal_maya_default_tmpfs hal_mothealth_default_exec hal_mothealth_default_tmpfs hal_panel_default_exec hal_panel_default_tmpfs hal_powerext_default_exec hal_powerext_default_tmpfs hardware_rev_exec hardware_rev_tmpfs init_block_perm_exec init_block_perm_tmpfs init_hab_exec init_hab_tmpfs init_hw_exec init_hw_tmpfs init_mods_exec init_mods_tmpfs init_touch_exec init_touch_tmpfs init_usb_exec init_usb_tmpfs init_wifi_exec init_wifi_tmpfs kpgather_exec kpgather_tmpfs log_app_tmpfs mbm_spy_exec mbm_spy_tmpfs mdlog_exec mdlog_tmpfs memtest_exec mkfs_exec mkfs_tmpfs mmi_boot_exec mmi_boot_tmpfs mmi_laser_exec mmi_laser_tmpfs mods_camd_exec mods_camd_tmpfs motobox_exec motobox_tmpfs sensor_hub_exec sensor_hub_tmpfs sudo_exec tcmd_exec tcmd_tmpfs tcmdhelp_exec tcmdhelp_tmpfs capsense_reset_exec capsense_reset_tmpfs capsense_set_threshold_exec capsense_set_threshold_tmpfs vl53l1_daemon_socket persist_camera_file ramdump_data_file mot_mbs_socket bt_ramdump_data_file netmgr_data_file wdsdaemon_exec wdsdaemon_tmpfs persist_egis_file hal_dms_default_exec hal_dms_default_tmpfs esdpll_exec esdpll_tmpfs init_time_exec init_time_tmpfs hal_motvibrator_default_exec hal_motvibrator_default_tmpfs))
+./vendor/etc/selinux/vendor_sepolicy.cil:92:(typeattributeset exec_type (adbd_exec_28_0 bootanim_exec_28_0 bootstat_exec_28_0 bufferhubd_exec_28_0 cameraserver_exec_28_0 clatd_exec_28_0 cppreopts_exec_28_0 crash_dump_exec_28_0 dex2oat_exec_28_0 dhcp_exec_28_0 dnsmasq_exec_28_0 drmserver_exec_28_0 dumpstate_exec_28_0 e2fs_exec_28_0 logcat_exec_28_0 fingerprintd_exec_28_0 fsck_exec_28_0 gatekeeperd_exec_28_0 healthd_exec_28_0 hwservicemanager_exec_28_0 idmap_exec_28_0 init_exec_28_0 inputflinger_exec_28_0 install_recovery_exec_28_0 installd_exec_28_0 keystore_exec_28_0 lmkd_exec_28_0 logd_exec_28_0 mediacodec_exec_28_0 mediadrmserver_exec_28_0 mediaextractor_exec_28_0 mediametrics_exec_28_0 mediaserver_exec_28_0 mtp_exec_28_0 netd_exec_28_0 netutils_wrapper_exec_28_0 otapreopt_chroot_exec_28_0 otapreopt_slot_exec_28_0 performanced_exec_28_0 perfprofd_exec_28_0 ppp_exec_28_0 preopt2cachename_exec_28_0 profman_exec_28_0 racoon_exec_28_0 recovery_persist_exec_28_0 recovery_refresh_exec_28_0 runas_exec_28_0 sdcardd_exec_28_0 servicemanager_exec_28_0 sgdisk_exec_28_0 shell_exec_28_0 su_exec_28_0 thermalserviced_exec_28_0 tombstoned_exec_28_0 toolbox_exec_28_0 tzdatacheck_exec_28_0 uncrypt_exec_28_0 update_engine_exec_28_0 update_verifier_exec_28_0 usbd_exec_28_0 vdc_exec_28_0 vendor_shell_exec_28_0 vendor_toolbox_exec_28_0 virtual_touchpad_exec_28_0 vold_exec_28_0 vold_prepare_subdirs_exec_28_0 vr_hwc_exec_28_0 webview_zygote_exec_28_0 wificond_exec_28_0 wpantund_exec_28_0 zygote_exec_28_0 wfdservice_exec_28_0 coredump_exec_28_0 init_elabel_exec_28_0 hal_audio_default_exec hal_audiocontrol_default_exec hal_authsecret_default_exec hal_bluetooth_default_exec hal_bootctl_default_exec hal_broadcastradio_default_exec hal_camera_default_exec hal_cas_default_exec hal_configstore_default_exec hal_confirmationui_default_exec hal_contexthub_default_exec hal_drm_default_exec hal_dumpstate_default_exec hal_evs_default_exec hal_fingerprint_default_exec hal_gatekeeper_default_exec hal_gnss_default_exec hal_graphics_allocator_default_exec hal_graphics_composer_default_exec hal_health_default_exec hal_ir_default_exec hal_keymaster_default_exec hal_light_default_exec hal_lowpan_default_exec hal_memtrack_default_exec hal_nfc_default_exec hal_power_default_exec hal_radio_config_default_exec hal_radio_default_exec hal_secure_element_default_exec hal_sensors_default_exec hal_tetheroffload_default_exec hal_thermal_default_exec hal_tv_cec_default_exec hal_tv_input_default_exec hal_usb_default_exec hal_vehicle_default_exec hal_vibrator_default_exec hal_vr_default_exec hal_wifi_default_exec hal_wifi_hostapd_default_exec hal_wifi_offload_default_exec hal_wifi_supplicant_default_exec rild_exec tee_exec vndservicemanager_exec adpl_exec adsprpcd_exec atfwd_exec audiod_exec bg_daemon_exec sapd_exec btsnoop_exec btnvtool_exec fmhal_service_exec cdsprpcd_exec charger_monitor_exec chre_exec cnd_exec diag_exec dtsconfigurator_exec dtseagleservice_exec energyawareness_exec esepmdaemon_exec fidodaemon_exec fm_qsoc_patches_exec fps_hal_exec fstman_exec gamed_exec hal_alarm_qti_default_exec hal_bluetooth_qti_exec hal_display_color_default_exec hal_dpmQmiMgr_exec hal_drm_clearkey_exec hal_drm_widevine_exec hal_esepowermanager_qti_exec vendor_hal_factory_qti_default_exec hal_gatekeeper_qti_exec hal_gnss_qti_exec hal_imsrtp_exec hal_iop_default_exec hal_keymaster_qti_exec hal_mirrorlink_qti_exec hal_neuralnetworks_default_exec hal_perf_default_exec hal_qdutils_disp_qti_exec hal_qteeconnector_qti_exec hal_rcsservice_exec vendor_scve_exec hal_sensorscalibrate_qti_default_exec hal_soter_qti_exec hal_tui_comm_qti_exec hal_usb_gadget_qti_exec hbtp_exec hdcp_srm_exec hostapd_exec hvdcp_exec ims_exec init-qti-ims-sh_exec qti_init_shell_exec ipacm_exec ipacm-diag_exec irsc_util_exec location_exec logdumpd_exec mcStarter_exec mdm_helper_exec mdtpdaemon_exec mlid_exec mm-pp-daemon_exec mm-qcamerad_exec vendor_mmi_exec msm_irqbalanced_exec netmgrd_exec nqnfcinfo_exec vendor_pd_mapper_exec vendor_per_mgr_exec port-bridge_exec power_off_alarm_exec poweroffhandler_exec vendor_qcomsysd_exec qdcm-ss_exec qdmastatsd_exec qfp-daemon_exec qlogd_exec qmuxd_exec qrtr_exec qseeproxy_exec qti_logkit_exec qti_exec qvop-daemon_exec rfs_access_exec RIDL_exec rmt_storage_exec sec_nvm_exec secotad_exec seemp_health_daemon_exec sensors_exec spdaemon_exec ssgqmigd_exec ssgtzd_exec vendor_ssr_diag_exec vendor_ssr_setup_exec vendor_subsystem_ramdump_exec tbaseLoader_exec thermal-engine_exec time_daemon_exec tlocd_exec touchfusion_exec usb_uicc_daemon_exec usf_exec vendor_audioftm_exec vendor_init_exec vm_bms_exec vendor_vppservice_exec wcnss_filter_exec wcnss_service_exec wifi_ftmd_exec wifidisplayhalservice_qti_exec wigighalsvc_exec wigignpt_exec init-qti-fbe-sh_exec move-widevine-data-sh_exec move_wifi_data-sh_exec adspd_exec apanic_exec aplogd_exec batt_health_exec charge_only_exec erase_modemst12_exec ftmdaemon_exec ftmipcd_exec hal_imagetuner_default_exec hal_maya_default_exec hal_mothealth_default_exec hal_panel_default_exec hal_powerext_default_exec hardware_rev_exec init_block_perm_exec init_hab_exec init_hw_exec init_mods_exec init_touch_exec init_usb_exec init_wifi_exec kpgather_exec mbm_spy_exec mdlog_exec memtest_exec mkfs_exec mmi_boot_exec mmi_laser_exec mods_camd_exec motobox_exec sensor_hub_exec sudo_exec tcmd_exec tcmdhelp_exec capsense_reset_exec capsense_set_threshold_exec wdsdaemon_exec hal_dms_default_exec esdpll_exec init_time_exec hal_motvibrator_default_exec))
+./vendor/etc/selinux/vendor_sepolicy.cil:95:(typeattributeset vendor_file_type (vendor_hal_file_28_0 vendor_file_28_0 vendor_app_file_28_0 vendor_configs_file_28_0 same_process_hal_file_28_0 vndk_sp_file_28_0 vendor_framework_file_28_0 vendor_overlay_file_28_0 mediacodec_exec_28_0 vendor_shell_exec_28_0 vendor_toolbox_exec_28_0 hal_audio_default_exec hal_audiocontrol_default_exec hal_authsecret_default_exec hal_bluetooth_default_exec hal_bootctl_default_exec hal_broadcastradio_default_exec hal_camera_default_exec hal_cas_default_exec hal_configstore_default_exec hal_confirmationui_default_exec hal_contexthub_default_exec hal_drm_default_exec hal_dumpstate_default_exec hal_evs_default_exec hal_fingerprint_default_exec hal_gatekeeper_default_exec hal_gnss_default_exec hal_graphics_allocator_default_exec hal_graphics_composer_default_exec hal_health_default_exec hal_ir_default_exec hal_keymaster_default_exec hal_light_default_exec hal_lowpan_default_exec hal_memtrack_default_exec hal_nfc_default_exec hal_power_default_exec hal_radio_config_default_exec hal_radio_default_exec hal_secure_element_default_exec hal_sensors_default_exec hal_tetheroffload_default_exec hal_thermal_default_exec hal_tv_cec_default_exec hal_tv_input_default_exec hal_usb_default_exec hal_vehicle_default_exec hal_vibrator_default_exec hal_vr_default_exec hal_wifi_default_exec hal_wifi_hostapd_default_exec hal_wifi_offload_default_exec hal_wifi_supplicant_default_exec rild_exec tee_exec vndservicemanager_exec adpl_exec adsprpcd_exec atfwd_exec audiod_exec bg_daemon_exec sapd_exec btsnoop_exec btnvtool_exec fmhal_service_exec cdsprpcd_exec charger_monitor_exec chre_exec cnd_exec diag_exec dtsconfigurator_exec dtseagleservice_exec energyawareness_exec esepmdaemon_exec fidodaemon_exec firmware_file vendor_firmware_file bt_firmware_file hbtp_cfg_file adsprpcd_file vendor_carrier_file fm_qsoc_patches_exec fps_hal_exec fstman_exec gamed_exec hal_alarm_qti_default_exec hal_bluetooth_qti_exec hal_display_color_default_exec hal_dpmQmiMgr_exec hal_drm_clearkey_exec hal_drm_widevine_exec hal_esepowermanager_qti_exec vendor_hal_factory_qti_default_exec hal_gatekeeper_qti_exec hal_gnss_qti_exec hal_imsrtp_exec hal_iop_default_exec hal_keymaster_qti_exec hal_mirrorlink_qti_exec hal_neuralnetworks_default_exec hal_perf_default_exec hal_qdutils_disp_qti_exec hal_qteeconnector_qti_exec hal_rcsservice_exec vendor_scve_exec hal_sensorscalibrate_qti_default_exec hal_soter_qti_exec hal_tui_comm_qti_exec hal_usb_gadget_qti_exec hbtp_exec hdcp_srm_exec hostapd_exec hvdcp_exec ims_exec init-qti-ims-sh_exec qti_init_shell_exec ipacm_exec ipacm-diag_exec irsc_util_exec location_exec logdumpd_exec mcStarter_exec mdm_helper_exec mdtpdaemon_exec mlid_exec mm-pp-daemon_exec mm-qcamerad_exec vendor_mmi_exec msm_irqbalanced_exec netmgrd_exec nqnfcinfo_exec vendor_pd_mapper_exec vendor_per_mgr_exec port-bridge_exec power_off_alarm_exec poweroffhandler_exec vendor_qcomsysd_exec qdcm-ss_exec qdmastatsd_exec qfp-daemon_exec qlogd_exec qmuxd_exec qrtr_exec qseeproxy_exec qti_logkit_exec qti_exec qvop-daemon_exec rfs_access_exec RIDL_exec rmt_storage_exec sec_nvm_exec secotad_exec seemp_health_daemon_exec sensors_exec spdaemon_exec ssgqmigd_exec ssgtzd_exec vendor_ssr_diag_exec vendor_ssr_setup_exec vendor_subsystem_ramdump_exec tbaseLoader_exec thermal-engine_exec time_daemon_exec tlocd_exec touchfusion_exec usb_uicc_daemon_exec usf_exec vendor_audioftm_exec vendor_init_exec vm_bms_exec vendor_vppservice_exec wcnss_filter_exec wcnss_service_exec wifi_ftmd_exec wifidisplayhalservice_qti_exec wigighalsvc_exec wigignpt_exec init-qti-fbe-sh_exec adspd_exec apanic_exec aplogd_exec batt_health_exec charge_only_exec erase_modemst12_exec ftmdaemon_exec ftmipcd_exec hal_imagetuner_default_exec hal_maya_default_exec hal_mothealth_default_exec hal_panel_default_exec hal_powerext_default_exec hardware_rev_exec init_block_perm_exec init_hab_exec init_hw_exec init_mods_exec init_touch_exec init_usb_exec init_wifi_exec kpgather_exec mbm_spy_exec mdlog_exec memtest_exec mkfs_exec mmi_boot_exec mmi_laser_exec mods_camd_exec motobox_exec sensor_hub_exec tcmd_exec tcmdhelp_exec capsense_reset_exec capsense_set_threshold_exec wdsdaemon_exec hal_dms_default_exec esdpll_exec hal_motvibrator_default_exec))
+./vendor/etc/selinux/vendor_sepolicy.cil:106:(typeattributeset netdomain (clatd_28_0 dhcp_28_0 dnsmasq_28_0 drmserver_28_0 dumpstate_28_0 mediadrmserver_28_0 mediaserver_28_0 mtp_28_0 netd_28_0 ppp_28_0 racoon_28_0 radio_28_0 shell_28_0 update_engine_28_0 wpantund_28_0 hal_wifi_hostapd_default hal_wifi_supplicant_default rild adpl cnd fstman hal_dpmQmiMgr hal_imsrtp hal_rcsservice ims ipacm location location_app vendor_mmi netmgrd qdma_app qmuxd qti_logkit qti qti_logkit_app RIDL usf wcnss_filter wcnss_service wifi_ftmd wifidisplayhalservice_qti ssg_app ftmipcd log_app tcmd))
+./vendor/etc/selinux/vendor_sepolicy.cil:1471:(type ims)
+./vendor/etc/selinux/vendor_sepolicy.cil:1472:(roletype object_r ims)
+./vendor/etc/selinux/vendor_sepolicy.cil:1481:(type init-qti-ims-sh)
+./vendor/etc/selinux/vendor_sepolicy.cil:1482:(roletype object_r init-qti-ims-sh)
+./vendor/etc/selinux/vendor_sepolicy.cil:1483:(type init-qti-ims-sh_exec)
+./vendor/etc/selinux/vendor_sepolicy.cil:1484:(roletype object_r init-qti-ims-sh_exec)
+./vendor/etc/selinux/vendor_sepolicy.cil:1485:(type init-qti-ims-sh_tmpfs)
+./vendor/etc/selinux/vendor_sepolicy.cil:1486:(roletype object_r init-qti-ims-sh_tmpfs)
+./vendor/etc/selinux/vendor_sepolicy.cil:3540:(allow cnd ims (binder (call transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:3541:(allow ims cnd (binder (transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:3542:(allow cnd ims (fd (use)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4217:(allow hal_imsrtp ims (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4482:(allow hal_rcsservice ims (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4698:(allow hal_wifi_supplicant_default ims (unix_dgram_socket (sendto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4845:(allow init_28_0 ims (process (transition)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4846:(allow ims ims_exec (file (read getattr map execute entrypoint open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4847:(dontaudit init_28_0 ims (process (noatsecure)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4848:(allow init_28_0 ims (process (siginh rlimitinh)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4849:(typetransition init_28_0 ims_exec process ims)
+./vendor/etc/selinux/vendor_sepolicy.cil:4850:(typetransition ims tmpfs_28_0 file ims_tmpfs)
+./vendor/etc/selinux/vendor_sepolicy.cil:4851:(allow ims ims_tmpfs (file (read write getattr map)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4852:(allow ims tmpfs_28_0 (dir (getattr search)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4853:(allow ims qmuxd_socket (dir (ioctl read write create getattr setattr lock rename add_name remove_name reparent search rmdir open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4854:(allow ims qmuxd_socket (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4855:(allow ims qmuxd (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4856:(allow ims qmuxd_socket (sock_file (read write create getattr setattr unlink)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4857:(allow ims self (capability (net_bind_service)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4858:(allow ims self (socket (read write create getattr setattr lock append bind connect getopt setopt shutdown)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4859:(allow ims self (netlink_socket (read write create getattr setattr lock append bind connect getopt setopt shutdown)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4860:(allow ims self (netlink_generic_socket (read write create getattr setattr lock append bind connect getopt setopt shutdown)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4861:(allow ims self (qipcrtr_socket (read write create getattr setattr lock append bind connect getopt setopt shutdown)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4862:(allow ims system_file_28_0 (file (ioctl read getattr lock map execute execute_no_trans open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4863:(allow ims vendor_shell_exec_28_0 (file (ioctl read getattr lock map execute execute_no_trans open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4864:(allow ims wcnss_service_exec (file (ioctl read getattr lock map execute execute_no_trans open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4865:(allow ims netd_socket_28_0 (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4866:(allow ims netd_28_0 (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4867:(allow ims ims_socket (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4868:(allow ims qmuxd (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4869:(allow ims property_socket_28_0 (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4870:(allow ims init_28_0 (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4871:(allow ims qcom_ims_prop (property_service (set)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4872:(allow ims qcom_ims_prop (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4873:(allow ims property_socket_28_0 (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4874:(allow ims init_28_0 (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4875:(allow ims ctl_vendor_imsrcsservice_prop (property_service (set)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4876:(allow ims ctl_vendor_imsrcsservice_prop (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4877:(allow ims cnd_socket (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4878:(allow ims cnd (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4879:(allow ims netmgrd_socket (dir (ioctl read getattr lock search open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4880:(allow ims netmgrd_socket (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4881:(allow ims netmgrd (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4882:(allow ims netmgrd_socket (sock_file (read write getattr)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4883:(allow ims radio_28_0 (fd (use)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4884:(allow ims self (socket (ioctl)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4885:(allow ims self (udp_socket (ioctl)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4886:(allowx ims self (ioctl socket (((range 0xc300 0xc305)))))
+./vendor/etc/selinux/vendor_sepolicy.cil:4887:(allowx ims self (ioctl udp_socket (0x6900 0x6902)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4888:(allowx ims self (ioctl udp_socket (((range 0x890b 0x890d)) 0x8911 0x8914 0x8916 0x8918 0x891a ((range 0x891c 0x8920)) ((range 0x8922 0x8927)) 0x8929 ((range 0x8930 0x8932)) ((range 0x8934 0x8937)) 0x8939 ((range 0x8940 0x8941)) 0x8943 ((range 0x8946 0x894b)) ((range 0x8953 0x8955)) ((range 0x8960 0x8962)) ((range 0x8970 0x8971)) ((range 0x8980 0x8983)) ((range 0x8990 0x8995)) ((range 0x89a0 0x89a3)) 0x89b0 ((range 0x89e0 0x89ff)))))
+./vendor/etc/selinux/vendor_sepolicy.cil:4889:(allowx ims self (ioctl udp_socket (0x8b00 0x8b02 0x8b04 0x8b06 0x8b08 0x8b0a 0x8b0c 0x8b0e 0x8b10 ((range 0x8b14 0x8b1d)) 0x8b20 0x8b22 0x8b24 0x8b26 0x8b28 ((range 0x8b2a 0x8b2c)) ((range 0x8b30 0x8b36)) ((range 0x8be0 0x8bff)))))
+./vendor/etc/selinux/vendor_sepolicy.cil:4890:(allow ims sysfs_data (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4891:(allow ims hwservicemanager_28_0 (binder (call transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4892:(allow hwservicemanager_28_0 ims (binder (call transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4893:(allow hwservicemanager_28_0 ims (dir (search)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4894:(allow hwservicemanager_28_0 ims (file (read open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4895:(allow hwservicemanager_28_0 ims (process (getattr)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4896:(allow ims hwservicemanager_prop_28_0 (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4897:(allow ims qcom_ims_prop (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4898:(allow ims cnd_vendor_prop (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4899:(allow ims hal_datafactory_hwservice (hwservice_manager (find)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4900:(allow ims cnd (binder (call transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4901:(allow cnd ims (binder (transfer)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4902:(allow ims cnd (fd (use)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4910:(allow imshelper_app ims (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4915:(allow init_28_0 init-qti-ims-sh_exec (file (read getattr map execute open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4916:(allow init_28_0 init-qti-ims-sh (process (transition)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4917:(allow init-qti-ims-sh init-qti-ims-sh_exec (file (read getattr map execute entrypoint open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4918:(dontaudit init_28_0 init-qti-ims-sh (process (noatsecure)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4919:(allow init_28_0 init-qti-ims-sh (process (siginh rlimitinh)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4920:(typetransition init_28_0 init-qti-ims-sh_exec process init-qti-ims-sh)
+./vendor/etc/selinux/vendor_sepolicy.cil:4921:(typetransition init-qti-ims-sh tmpfs_28_0 file init-qti-ims-sh_tmpfs)
+./vendor/etc/selinux/vendor_sepolicy.cil:4922:(allow init-qti-ims-sh init-qti-ims-sh_tmpfs (file (read write getattr map)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4923:(allow init-qti-ims-sh tmpfs_28_0 (dir (getattr search)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4924:(allow init-qti-ims-sh vendor_shell_exec_28_0 (file (ioctl read getattr lock map execute execute_no_trans open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4925:(allow init-qti-ims-sh vendor_toolbox_exec_28_0 (file (ioctl read getattr lock map execute execute_no_trans open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4926:(allow init-qti-ims-sh property_socket_28_0 (sock_file (write)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4927:(allow init-qti-ims-sh init_28_0 (unix_stream_socket (connectto)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4928:(allow init-qti-ims-sh qcom_ims_prop (property_service (set)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4929:(allow init-qti-ims-sh qcom_ims_prop (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:4930:(allow init-qti-ims-sh exported2_default_prop_28_0 (file (ioctl read getattr lock map open)))
+./vendor/etc/selinux/vendor_sepolicy.cil:7772:(allow hal_wifi_supplicant ims (unix_dgram_socket (sendto)))
+./vendor/etc/sec_config:275:/* Allow RCS service to communicate to IMS QMI Priv Svc*/
+./vendor/etc/sec_config:300:/* IMS VT */
+./vendor/etc/init/hw/init.mmi.volte.rc:40:on property:vendor.ims.QMI_DAEMON_STATUS=1
+./vendor/etc/init/hw/init.mmi.volte.rc:55:on property:vendor.ims.DATA_DAEMON_STATUS=1
+./vendor/etc/init/hw/init.qcom.rc:344:    #Create directory from IMS services
+./vendor/etc/init/hw/init.qcom.rc:965:#service ims_regmanager /system/vendor/bin/exe-ims-regmanagerprocessnative
+./vendor/etc/init/hw/init.qcom.rc:970:on property:persist.ims.regmanager.mode=1
+./vendor/etc/init/hw/init.target.rc:380:#on property:vendor.ims.QMI_DAEMON_STATUS=1
+./vendor/etc/init/hw/init.target.rc:403:#on property:vendor.ims.DATA_DAEMON_STATUS=1
+Binary file ./vendor/app/DaxUI/DaxUI.apk matches
+Binary file ./vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so matches
+Binary file ./vendor/lib64/vendor.qti.hardware.radio.ims@1.3.so matches
+Binary file ./vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so matches
+Binary file ./vendor/lib64/vendor.qti.data.factory@1.0.so matches
+Binary file ./vendor/lib64/lib-rtpcommon.so matches
+Binary file ./vendor/lib64/lib-imsxml.so matches
+Binary file ./vendor/lib64/vendor.qti.hardware.radio.ims@1.2.so matches
+Binary file ./vendor/lib64/vendor.qti.hardware.radio.ims@1.1.so matches
+Binary file ./vendor/lib64/lib-dplmedia.so matches
+Binary file ./vendor/lib64/lib-imsdpl.so matches
+Binary file ./vendor/lib64/libril-qc-hal-qmi.so matches
+Binary file ./vendor/lib64/libcne.so matches
+Binary file ./vendor/lib64/vendor.qti.hardware.radio.ims@1.4.so matches
+Binary file ./vendor/lib64/liblog_vendor.so matches
+Binary file ./vendor/lib64/lib-rtpcore.so matches
+Binary file ./vendor/lib64/lib-rtpsl.so matches
+Binary file ./vendor/lib64/vendor.qti.ims.callinfo@1.0.so matches
+Binary file ./vendor/lib64/libril-qc-qmi-1.so matches
+Binary file ./vendor/lib64/lib-imsqimf.so matches
+Binary file ./vendor/lib64/vendor.qti.hardware.radio.ims@1.0.so matches
+Binary file ./vendor/lib64/libwqe.so matches
+Binary file ./vendor/lib64/lib-rtpdaemoninterface.so matches
+Binary file ./vendor/lib64/lib-siputility.so matches
+./vendor/build.prop:142:persist.vendor.ims.disableIMSLogs=0
+./vendor/build.prop:143:persist.vendor.ims.disableDebugDataPathLogs=0
+./vendor/build.prop:144:persist.vendor.ims.disableADBLogs=0
+./vendor/build.prop:145:persist.vendor.ims.vt.enableadb=1
+Binary file ./vendor/lib/vendor.qti.ims.rcsconfig@1.0.so matches
+Binary file ./vendor/lib/vendor.qti.hardware.radio.ims@1.3.so matches
+Binary file ./vendor/lib/vendor.qti.imsrtpservice@1.0-service-Impl.so matches
+Binary file ./vendor/lib/vendor.qti.data.factory@1.0.so matches
+Binary file ./vendor/lib/lib-rtpcommon.so matches
+Binary file ./vendor/lib/lib-imsxml.so matches
+Binary file ./vendor/lib/vendor.display.color@1.2.so matches
+Binary file ./vendor/lib/vendor.qti.hardware.radio.ims@1.2.so matches
+Binary file ./vendor/lib/soundfx/libspeakerbundle.so matches
+Binary file ./vendor/lib/vendor.qti.hardware.radio.ims@1.1.so matches
+Binary file ./vendor/lib/lib-dplmedia.so matches
+Binary file ./vendor/lib/lib-imsdpl.so matches
+Binary file ./vendor/lib/libril-qc-hal-qmi.so matches
+Binary file ./vendor/lib/libcne.so matches
+Binary file ./vendor/lib/vendor.qti.hardware.radio.ims@1.4.so matches
+Binary file ./vendor/lib/lib-rtpcore.so matches
+Binary file ./vendor/lib/lib-rtpsl.so matches
+Binary file ./vendor/lib/vendor.qti.ims.callinfo@1.0.so matches
+Binary file ./vendor/lib/libril-qc-qmi-1.so matches
+Binary file ./vendor/lib/lib-imsqimf.so matches
+Binary file ./vendor/lib/libmmcamera_isp_cs_stats46.so matches
+Binary file ./vendor/lib/libmotext_inf.so matches
+Binary file ./vendor/lib/vendor.qti.hardware.radio.ims@1.0.so matches
+Binary file ./vendor/lib/libwqe.so matches
+Binary file ./vendor/lib/lib-rtpdaemoninterface.so matches
+Binary file ./vendor/lib/lib-siputility.so matches
+Binary file ./vendor/bin/ims_rtp_daemon matches
+Binary file ./vendor/bin/imsdatadaemon matches
+Binary file ./vendor/bin/qrtr-lookup matches
+./vendor/bin/init.qti.ims.sh:34:ims_disabled=`getprop persist.vendor.ims.disabled`
+./vendor/bin/init.qti.ims.sh:46:    echo "ims will be enabled"
+./vendor/bin/init.qti.ims.sh:47:    setprop vendor.service.qti.ims.enabled 1
+./vendor/bin/init.qti.ims.sh:52:    echo "ims is disabled"
+./vendor/bin/init.qti.ims.sh:53:    setprop vendor.service.qti.ims.enabled 0
+./vendor/bin/init.qti.ims.sh:55:    echo "ims is enabled"
+./vendor/bin/init.qti.ims.sh:56:    setprop vendor.service.qti.ims.enabled 1
+Binary file ./vendor/bin/imsqmidaemon matches
+Binary file ./vendor/bin/netmgrd matches
